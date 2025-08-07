@@ -1,16 +1,16 @@
 html
 {
-    background-color: #d9ffde;
+    background-color: #1f1f1f;
 }
 
 @font-face {
-    font-family: sourcesans;
+    font-family: outfit;
     src: url("font.ttf");
 }
 
 input[type="text"]
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
     color: #000000;
     background-color: #bcf5c4;
@@ -19,7 +19,7 @@ input[type="text"]
 
 select
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
     color: #000000;
     background-color: #bcf5c4;
@@ -30,7 +30,7 @@ select
 
 option
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
     color: #000000;
     background-color: #bcf5c4;
@@ -38,7 +38,7 @@ option
 
 button
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
     background-color: #bcf5c4;
     border: 1px solid #000000;
@@ -46,28 +46,28 @@ button
 
 h1
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 40pt;
-    color: #1aab2d;
+    color: #ffffff;
 }
 
 h3
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 20pt;
-    color: #1aab2d;
+    color: #ffffff;
 }
 
 p
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
-    color: #000000;
+    color: #ffffff;
 }
 
 table
 {
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
 }
 
@@ -105,14 +105,14 @@ ul
 li 
 {
     float: left;
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
 }
 
 .bullet
 {
     float: none;
-    font-family: sourcesans;
+    font-family: outfit;
     font-size: 16pt;
     color: #000000;
 }
