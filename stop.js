@@ -1,10 +1,17 @@
+const stopId = [];
+const stopName = [];
+const stopLat = [];
+const stopLon = [];
+const dayTrips = [];
+const allTrips = [];
+
+const paramName = 'stop';
+const result = parsedUrl.searchParams.get(paramName);
+
 function funct()
 {
   const parsedUrl = new URL(document.URL);
   console.log(parsedUrl);
-
-  const paramName = 'stop';
-  const result = parsedUrl.searchParams.get(paramName);
 
   const testAgencyUrl = ("https://www.localtransit.app/wrta.txt"); // provide file location
     fetch(testAgencyUrl)
@@ -12,13 +19,6 @@ function funct()
       .then((text) => {
         const agencyUrlFile = text.split("\n");
         agencyUrlFile.pop();
-
-        const stopId = [];
-        const stopName = [];
-        const stopLat = [];
-        const stopLon = [];
-        const dayTrips = [];
-        const allTrips = [];
 
         for (let i = 0; i < agencyUrlFile.length; i++)
         {
@@ -37,17 +37,22 @@ function funct()
           allTrips.push(data);
         }
 
-        for (let i = 0; i < stopId.length; i++)
-        {
-          if (stopId[i] == result)
-          {
-            document.getElementById("stop").innerHTML += (stopName[i] + " (" + stopId[i] + ")");
-            document.getElementById("name").innerHTML += (stopName[i]);
-            document.getElementById("location").innerHTML += (stopLat[i] + ", " + stopLon[i]);
-            var dayFreq = (14 / dayTrips[i]) * 60;
-            document.getElementById("daytime").innerHTML += (dayFreq);
-            document.getElementById("24trips").innerHTML += (allTrips[i]);
-          }
-        }
+        findStop()
       })
+}
+
+function findStop()
+{
+  for (let i = 0; i < stopId.length; i++)
+  {
+    if (stopId[i] == result)
+    {
+      document.getElementById("stop").innerHTML += (stopName[i] + " (" + stopId[i] + ")");
+      document.getElementById("name").innerHTML += (stopName[i]);
+      document.getElementById("location").innerHTML += (stopLat[i] + ", " + stopLon[i]);
+      var dayFreq = (14 / dayTrips[i]) * 60;
+      document.getElementById("daytime").innerHTML += (dayFreq);
+      document.getElementById("24trips").innerHTML += (allTrips[i]);
+    }
+  }
 }
