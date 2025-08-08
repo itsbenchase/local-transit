@@ -15,6 +15,8 @@ function funct()
   const paramName = 'stop';
   result = parsedUrl.searchParams.get(paramName);
 
+  console.log(result);
+
   const testAgencyUrl = ("https://www.localtransit.app/wrta.txt"); // provide file location
     fetch(testAgencyUrl)
       .then(r => r.text())
@@ -25,7 +27,6 @@ function funct()
         for (let i = 0; i < agencyUrlFile.length; i++)
         {
           var data = agencyUrlFile[i];
-          data = data.substr(data.indexOf(";") + 1);
           stopId.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
           stopName.push(data.substring(0, data.indexOf(";")));
