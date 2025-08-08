@@ -50,10 +50,9 @@ function findStop(result)
   {
     if (stopId[i] == result)
     {
-      document.getElementById("stop").innerHTML += (stopName[i] + " (" + stopId[i] + ")");
       document.getElementById("name").innerHTML += (stopName[i]);
       document.getElementById("location").innerHTML += (stopLat[i] + ", " + stopLon[i]);
-      var dayFreq = (14 / dayTrips[i]) * 60;
+      var dayFreq = Math.round(((14 / dayTrips[i]) * 60) * 100) / 100;
       document.getElementById("daytime").innerHTML += (dayFreq + " minutes");
       document.getElementById("24trips").innerHTML += (allTrips[i]);
     }
