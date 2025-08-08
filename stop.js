@@ -6,7 +6,7 @@ function funct()
   const paramName = 'stop';
   const result = parsedUrl.searchParams.get(paramName);
 
-  const testAgencyUrl = ("https://localtransit.app/wrta.txt"); // provide file location
+  const testAgencyUrl = ("https://www.localtransit.app/wrta.txt"); // provide file location
     fetch(testAgencyUrl)
       .then(r => r.text())
       .then((text) => {
