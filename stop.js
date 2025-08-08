@@ -5,7 +5,7 @@ const stopLon = [];
 const dayTrips = [];
 const allTrips = [];
 
-const result = "nah";
+var result = "nah";
 
 function funct()
 {
