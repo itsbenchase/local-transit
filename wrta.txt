@@ -1,0 +1,1196 @@
+stop_id;stop_name;stop_lat;stop_lon;day_trips;24_trips
+4;Grove St at Glennie;42.284398;-71.807561;35;41
+5;Grove and Sagamore;42.28226;-71.806275;35;41
+18;Providence St + Aetna St;42.25318;-71.79265;18;21
+21;Grafton St + Franklin St;42.25971;-71.79366;67;79
+24;Franklin St + City Hall;42.26178;-71.80149;115;128
+25;Front St + City Hall;42.26318;-71.80176;100;116
+28;Grafton St + Temple St;42.25974;-71.79381;70;79
+31;Providence St + Jefferson St;42.25341;-71.79275;18;21
+32;Providence St + Pattison St;42.25231;-71.79267;18;21
+37;Providence St + 133 Providence St;42.24661;-71.79193;19;21
+45;Fair Plaza Shelter;42.214056;-71.795848;28;36
+46;Greenwood St at Arnold;42.21513;-71.795895;28;36
+47;Greenwood St at 327 Greenwood;42.216958;-71.796293;28;36
+48;Greenwood St at Ryberg;42.2185;-71.796626;28;36
+49;Greenwood St at Conway;42.219406;-71.796612;28;36
+50;Greenwood St at Southold;42.220645;-71.796658;28;36
+53;Spofford Rd at Broughton;42.220974;-71.799507;28;36
+54;Upland Garden Dr at 48 Upland Garden;42.220622;-71.803364;28;36
+55;Upland Garden Dr at 36 Upland Garden;42.221551;-71.803588;28;36
+56;Upland Garden Dr at 22 Upland Garden;42.22255;-71.804006;28;36
+57;Upland Garden Dr at 10 Upland Garden;42.223268;-71.80478;28;36
+58;Upland St at 65 Upland;42.224131;-71.802758;28;36
+59;Upland St at Harwich;42.223646;-71.800826;28;36
+60;Upland St at Mallard;42.223311;-71.799616;28;36
+61;Upland St at Emmanuel;42.223544;-71.797239;28;36
+63;Greenwood St at 187 Greenwood;42.224454;-71.795171;28;36
+64;Greenwood St at Forsberg;42.226046;-71.793634;28;36
+65;Greenwood St at 127 Greenwood;42.22713;-71.79297;28;36
+66;Greenwood St at Tatman;42.228625;-71.792906;28;36
+67;Greenwood St at Kosta;42.230063;-71.793098;28;36
+68;Greenwood St at Ekman;42.231263;-71.793526;28;36
+69;Blackstone River Rd at Whipple;42.232423;-71.794376;23;31
+70;Blackstone River Rd at Falmouth;42.233916;-71.795521;23;31
+71;Blackstone River Rd at Mckeon;42.234954;-71.796158;23;31
+72;Route 146 + Walmart;42.234002;-71.790407;81;122
+73;Walmart Parking Lot;42.231748;-71.789958;62;80
+74;Providence St + Millbury St;42.23797;-71.79208;46;57
+75;Providence St + Doane St;42.2401;-71.79161;46;57
+76;Providence St + Astrid Ave;42.240592;-71.791413;46;57
+77;Upsala St at Providence;42.241415;-71.791829;28;36
+78;Upsala St at Esther;42.241785;-71.793463;28;36
+79;Upsala St at Stockton;42.242101;-71.794872;28;36
+80;Upsala St at Vernon;42.242635;-71.797135;28;36
+81;Vernon St at Ames;42.243428;-71.796838;28;36
+82;Vernon St at Windham;42.244718;-71.796086;28;36
+84;Vernon St at Syme;42.246283;-71.794886;28;36
+87;Vernon St at Suffield;42.249763;-71.794735;28;36
+89;Vernon St at Dorchester St;42.251456;-71.79537;28;36
+90;Vernon St at Pattison;42.25245;-71.796055;28;36
+91;Vernon St at Jefferson;42.253546;-71.796848;28;36
+92;Green St at Harding;42.255771;-71.797841;38;48
+93;Green St at Harrison;42.256996;-71.79793;38;48
+94;Green St at Goddard;42.258156;-71.798056;38;48
+95;Foster St + Major Taylor Blvd;42.263406;-71.7968;162;185
+96;Foster St + Waldo St;42.264797;-71.800535;62;71
+99;Green St at Temple;42.259301;-71.798248;39;49
+101;Green St at Madison;42.255704;-71.798152;39;49
+102;Vernon St at Pattison;42.252507;-71.796218;27;36
+103;Vernon St at Richland;42.251138;-71.795317;27;36
+104;Vernon St at Suffield;42.250153;-71.794878;27;36
+105;Vernon St at Seymour;42.249128;-71.794751;28;36
+106;Vernon St at Alpine;42.248221;-71.794726;28;36
+107;Vernon St at View;42.24703;-71.794783;28;36
+109;Vernon St at Euclid;42.245568;-71.795481;28;36
+110;Vernon St at Windham;42.244925;-71.795998;28;36
+112;Vernon St at Cargill;42.243668;-71.796896;28;36
+113;Vernon St at Upsala;42.242706;-71.797341;28;36
+115;Upsala Street Apartments;42.241961;-71.794984;28;36
+116;Upsala St at Esther;42.241646;-71.793577;28;36
+117;Upsala St at Providence;42.241236;-71.791628;28;36
+119;Providence St + Doame St;42.2401;-71.79173;47;57
+120;Providence St + Millbury St;42.238;-71.79221;47;57
+121;Blackstone River Rd at Mckeon;42.234915;-71.79631;24;32
+122;Blackstone River Rd at Falmouth;42.233559;-71.795425;24;32
+123;Blackstone River Rd at Whipple;42.232157;-71.794459;24;32
+124;Greenwood St at Ekman;42.231166;-71.793723;28;36
+125;Greenwood St at Kosta;42.229598;-71.793192;28;36
+126;Greenwood St at Tatman;42.228522;-71.793036;28;36
+127;Greenwood St at 137 Greenwood;42.227201;-71.793058;28;36
+128;Greenwood St at 159 Greenwood;42.226088;-71.79371;28;36
+129;Greenwood St at 192 Greenwood;42.224789;-71.795098;28;36
+130;Greenwood St at Upland;42.223878;-71.796104;28;36
+131;Upland St at Emmanuel;42.223679;-71.797237;28;36
+132;Upland St at Mallard;42.223412;-71.799605;28;36
+133;Upland St at Upland Garden;42.224161;-71.804614;28;36
+134;Upland Garden Dr at 10 Upland Garden;42.223088;-71.804868;28;36
+135;Upland Garden Dr at 36 Upland Garden;42.221562;-71.803858;28;36
+136;Upland Garden Dr at 48 Upland Garden;42.220564;-71.803618;28;36
+137;Spofford Rd at Broughton;42.220691;-71.799922;28;36
+138;Spofford Rd at Greenwood;42.221213;-71.797175;28;36
+139;Greenwood St at Southhold;42.220479;-71.796823;28;36
+140;Greenwood St at Conway;42.219661;-71.796814;28;36
+141;Greenwood St at Ryberg;42.218158;-71.796713;28;36
+143;Greenwood St at 328a Greenwood;42.215933;-71.79615;28;36
+144;Greenwood St at Arnold;42.215138;-71.796006;28;36
+145;Greenwood St at Fair Plaza;42.213596;-71.795943;28;36
+146;Greenwood St at Rt 20;42.212538;-71.795768;28;72
+154;Brooks St + Pullman St;42.320851;-71.800213;13;16
+155;Pullman St + Pricechopper;42.323849;-71.79787;13;31
+156;Mountain St West + Pullman St;42.324588;-71.797206;13;15
+157;Mountain St West + Malden St;42.323719;-71.794576;13;15
+164;Burncoat St + Assumption Ave;42.313938;-71.789633;13;15
+166;Burncoat St + Fales St;42.311736;-71.789156;13;15
+167;Burncoat St + Fairhaven Rd;42.309098;-71.789108;13;15
+168;Burncoat St + Chatam Village Rd;42.307953;-71.789108;13;15
+169;Burncoat St + Dorothy Ave;42.306428;-71.789203;13;15
+170;Burncoat St + Devens Rd;42.305713;-71.78933;13;15
+172;Burncoat St + Monterey Rd;42.30305;-71.789608;13;15
+173;Burncoat St + Thorndyke Rd;42.30224;-71.789576;13;15
+175;Burncoat St + Rexame Rd;42.299911;-71.789498;13;15
+176;Burncoat St + Burncoat High School;42.299061;-71.789608;13;15
+177;Burncoat St + Randolph Rd;42.296573;-71.78984;13;15
+178;Burncoat St + Clearview Ave;42.295978;-71.789975;13;15
+180;Burncoat St + Fairhaven;42.29205;-71.790688;13;15
+181;Burncoat St + Rankin St;42.288546;-71.790849;13;15
+182;Burncoat St + 16 Burncoat St;42.287741;-71.790829;13;15
+183;Lincoln St at Norton;42.285678;-71.791118;75;86
+184;Lincoln St at Harlow;42.283008;-71.792191;75;86
+185;Lincoln St at Greenhill;42.281355;-71.79286;75;86
+186;Lincoln St and Perkins St;42.278915;-71.793868;76;86
+187;Lincoln St at Frederick;42.277675;-71.794615;76;86
+188;Lincoln St at Crescent;42.275918;-71.795783;76;86
+189;Summer St + Kendall St;42.273705;-71.796864;13;15
+190;Summer St + 51 Summer St;42.269374;-71.796846;13;15
+191;Summer St + Thomas St;42.268264;-71.796056;13;15
+192;Summer St + Hampton Inn;42.267052;-71.795818;13;15
+194;Main St + Sudbury St;42.266541;-71.801005;28;29
+195;Main St + Maple St;42.265198;-71.801481;28;29
+196;Main St + City Hall;42.26308;-71.80221;112;129
+198;Brook St + Higgins St;42.319387;-71.800778;13;16
+199;Main St + Foster St;42.265563;-71.801243;27;31
+200;Summer St + East Central St;42.26705;-71.795593;14;16
+201;Summer St + Prospect St;42.268256;-71.795943;14;16
+202;Summer St + Kendall St;42.273701;-71.796721;14;16
+203;Lincoln St at Catherine;42.276443;-71.795323;76;89
+204;Lincoln St at Foresdale;42.277683;-71.794505;76;89
+205;Lincoln St at Forbes;42.279368;-71.793558;76;89
+206;Lincoln St at Greenhill;42.281568;-71.792653;76;89
+207;Lincoln St at Mckinley;42.283118;-71.792048;76;89
+209;Lincoln St at Brittan;42.286066;-71.790793;76;89
+210;Burncoat St + Melville St;42.288006;-71.790698;13;16
+211;Burncoat St + Rankin St;42.289289;-71.79051;13;16
+212;Burncoat St + Wawecus Rd;42.291992;-71.790521;13;16
+214;Burncoat St + Parkview Dr;42.293498;-71.790601;13;16
+215;Burncoat St + Davidson Rd;42.294253;-71.790363;13;16
+216;Burncoat St + Burncoat High School;42.29651;-71.789743;13;16
+217;Burncoat St + 184 Burncoat St;42.298861;-71.789505;13;16
+219;Burncoat St + Thorndyke Rd;42.302676;-71.78949;13;16
+220;Burncoat St + Monterey Rd;42.303368;-71.789521;13;16
+221;Burncoat St + Coventry Rd;42.304266;-71.789458;13;16
+223;Burncoat St + Devens Rd;42.305806;-71.789198;13;16
+224;Burncoat St + Clark St;42.30681;-71.789013;13;16
+225;Burncoat St + Chatam Village Rd;42.308004;-71.789027;13;16
+226;Burncoat St + Fairhaven Rd;42.309218;-71.789005;13;16
+227;Burncoat St + Quinapoxet Ln;42.31169;-71.789021;13;16
+228;Burncoat St + Inwood Rd;42.313079;-71.789185;13;16
+229;Burncoat St at Ascadilla;42.313824;-71.789407;13;16
+236;Mountain St. East + Burncoat St;42.32375;-71.79205;16;17
+237;Mountain St West + Malden St;42.323817;-71.79458;13;16
+246;Pullman St + Pricechopper;42.323998;-71.797965;13;16
+248;Julio Dr + Shrewsbury Commons;42.292466;-71.704074;11;13
+249;South St + Main St;42.295158;-71.703301;12;13
+250;Main St + Holman St;42.296228;-71.706303;12;13
+251;Main St + Job Cushing Rd;42.296587;-71.709882;12;13
+252;Main St at Boyleston St;42.296727;-71.713819;12;13
+253;Main St + Maple St;42.29652;-71.714944;12;13
+254;Maple St + Brightside Ave;42.290835;-71.72166;12;13
+255;Maple St + Oak St;42.285526;-71.728216;12;13
+256;Maple St + Van Ness Ave;42.282331;-71.733215;12;13
+257;Maple St + Fairlawn Plaza;42.276705;-71.736258;12;13
+258;Boston Trpk + Harrington Ave;42.275243;-71.744873;12;13
+259;Boston Trpk + White City;42.274726;-71.750993;12;13
+261;Boston Trpk + N. Quinsigamond Ave;42.27456;-71.752518;12;13
+263;Umass South Rd;42.275788;-71.761459;58;94
+264;Shrewsbury St + Aitchison St;42.273343;-71.77083;11;13
+265;Shrewsbury St + Daniels St;42.27278;-71.772021;11;13
+267;Shrewsbury St + Prentice St;42.271373;-71.774978;11;13
+268;Shrewsbury St + Imperial Rd;42.270593;-71.776583;11;13
+269;Shrewsbury St + Laraia St;42.269735;-71.7783;11;13
+270;Shrewsbury St + Marshall St;42.26879;-71.78012;11;13
+271;Shrewsbury St + Waite St;42.267366;-71.782798;11;13
+273;Shrewsbury St + Columbo Park;42.266365;-71.785027;11;13
+274;Shrewsbury St + East Central St;42.264364;-71.78881;11;13
+275;Shrewsbury St + Hill St;42.263596;-71.790286;11;13
+276;Shrewsbury St + Leo Tuoro Way;42.262735;-71.792146;11;13
+277;Shrewsbury St + Mulberry St;42.262469;-71.792622;11;13
+278;Shrewsbury St + Hill St;42.26345;-71.790006;11;13
+279;Shrewsbury St + Cross St;42.264506;-71.788051;11;13
+280;Shrewsbury St + Fantasia Dr;42.266628;-71.783975;11;13
+281;Shrewsbury St + Camassa Ter;42.267455;-71.782376;11;13
+282;Shrewsbury St + Envelope Ter;42.26836;-71.780525;11;13
+283;Shrewsbury St + Putnam Ln;42.269298;-71.778696;11;13
+284;Shrewsbury St + Adams St;42.269886;-71.777536;11;13
+285;Shrewsbury St + Hecla St;42.27057;-71.776258;11;13
+286;Shrewsbury St + Prentice St;42.271221;-71.774986;11;13
+287;Shrewsbury St + Daniels St;42.272651;-71.771918;11;13
+288;Shrewsbury St + Aitchison St;42.273288;-71.770503;11;13
+289;South Rd + Umass;42.275789;-71.762795;29;34
+290;Belmont St + Lake Ave;42.274046;-71.758298;11;13
+292;Boston Trpk + Quinsigamond Ave;42.27429;-71.75278;11;13
+293;Boston Trpk + White City Plaza;42.274598;-71.750142;11;13
+294;Boston Trpk + Svenson Rd;42.275091;-71.744341;11;13
+295;Maple Ave at Fairlawn Plaza;42.276379;-71.736644;11;13
+305;Target Lincoln Plaza;42.292612;-71.77419;34;77
+306;Stop & Shop Lincoln Plaza;42.29409;-71.77187;34;38
+307;Lincoln St + Mcdonalds;42.29525;-71.77271;70;81
+308;Lincoln St at Tyler Prentice Rd;42.29582;-71.7709;70;81
+309;Lincoln St + Pasadena Pkwy;42.29647;-71.76942;54;64
+310;Lincoln St + Benson Ave;42.29753;-71.76754;70;81
+311;Lincoln St +  Opp 640 Lincoln St;42.29763;-71.76462;18;21
+314;North Lake Ave + 425 North Lake Ave;42.29435;-71.75882;18;21
+315;Plantation St at 630 Plantation;42.292076;-71.76009;18;21
+316;Plantation St + Notre Dame;42.28825;-71.76199;18;21
+317;Plantation St + Plantation Towers;42.28372;-71.76266;14;17
+318;Plantation St+ North Rd;42.27915;-71.76495;18;21
+319;Lake Ave + Wigwam Ave;42.27204;-71.75914;18;21
+320;Lake Ave + Lakeview St;42.26815;-71.75584;18;21
+321;Lake Ave + Anna St;42.266323;-71.755461;18;21
+322;Lake Ave + Othello Rd;42.26467;-71.75481;18;21
+323;Lake Ave + Nonquit St;42.26189;-71.7543;18;21
+324;Lake Ave + Hamilton St;42.26042;-71.75404;18;21
+325;Hamilton St + Park Road Rmtramce;42.260143;-71.754637;18;21
+326;Hamilton St + Coburn Ave;42.25983;-71.75848;18;21
+327;Hamilton St + Palisades St;42.25929;-71.76023;18;21
+328;Hamilton St + Middlesex Ave;42.2595;-71.76338;18;21
+329;Hamilton St + Ralph Ave;42.25956;-71.76434;18;21
+331;Hamilton St + Harold St;42.25893;-71.76593;18;21
+332;Hamilton St + Anderson Ave;42.25836;-71.76686;18;21
+333;Hamilton St + Harrington Way;42.2575;-71.76915;20;23
+334;Hamilton St + Gordon St;42.257073;-71.770507;20;23
+335;Hamilton St + Warner Ave;42.256536;-71.773195;20;23
+337;Hamilton St + Delmont Ave;42.256459;-71.775608;20;23
+339;Hamilton St + Pilgrim Ave;42.256235;-71.77893;19;23
+340;Hamilton St + Ingleside Ave;42.25619;-71.7802;19;23
+341;Hamilton St + Plantation St;42.25609;-71.78228;19;23
+342;Grafton St + Orient St;42.25602;-71.78568;49;58
+343;Grafton St + Fay St;42.256202;-71.78763;49;58
+344;Grafton St + Mendon St;42.25647;-71.78924;49;58
+345;Grafton St + Penn Ave;42.25728;-71.79106;67;79
+346;Plantation Towers;42.286089;-71.765226;22;25
+347;Grafton St + Coral St;42.257333;-71.791563;70;79
+348;Grafton St + Waverly St;42.25653;-71.78994;52;58
+349;Grafton St + Mendon St;42.256173;-71.78797;52;58
+350;Grafton St + Houghton St;42.2559;-71.78601;52;58
+351;Hamilton St + Dupont St;42.255833;-71.783951;21;23
+352;Hamilton St + Plantation St;42.25593;-71.78198;21;23
+353;Hamilton St + Ingleside Ave;42.25598;-71.78052;21;23
+355;Hamilton St + Pilgrim Ave;42.256026;-71.778861;21;23
+356;Hamilton St + Delmont Ave;42.2562;-71.77602;21;23
+358;Hamilton St + Warner Ave;42.256328;-71.772817;21;23
+359;Hamilton St + Trahan Ave;42.257111;-71.769756;21;23
+360;Hamilton St + Elmire Ave;42.257274;-71.769217;20;22
+361;Hamilton St + Ernes Ave;42.25781;-71.76744;19;21
+363;Hamilton St + Harold St;42.25899;-71.76535;19;21
+364;Hamilton St + Commonwealth Ave;42.259164;-71.764995;19;21
+366;Hamilton St + Boston Ave;42.258877;-71.76213;19;21
+368;Hamilton St + Coburn Ave;42.25952;-71.75916;19;21
+369;Hamilton St + Park Road Entrance;42.25996;-71.75574;19;21
+370;Lake Ave + Hamilton St;42.26044;-71.7537;19;21
+371;Lake Ave + Lake Park;42.26197;-71.75397;19;21
+372;Lake Ave + Anna St;42.266434;-71.755256;18;21
+373;Lake Ave + Othello Rd;42.264151;-71.754542;19;21
+374;Lake Ave + Lakeview St;42.268447;-71.755694;18;21
+375;Lake Ave + Lincoln Park Towers;42.27265;-71.75897;18;21
+376;Lake Ave + Belmont St;42.27499;-71.75837;30;34
+377;Plantation St + North Rd;42.27864;-71.76504;46;52
+378;Plantation St + Winco Rd;42.28353;-71.76265;18;21
+379;Plantation St + Notre Dame;42.28787;-71.76201;18;21
+380;Plantation St + Natural History Rd;42.290216;-71.760312;18;21
+381;Plantation St +  630 Plantation St;42.29214;-71.76025;18;21
+382;North Lake Ave + 425 North Lake Ave;42.29435;-71.75876;18;21
+383;Lincoln St + Haven Lane;42.297355;-71.761026;18;21
+384;Lincoln St + 640 Lincoln St;42.2978;-71.76454;18;21
+385;Lincoln St + Boylston St;42.29756;-71.76779;69;82
+386;Lincoln St + Pasadena Pkwy;42.29672;-71.76912;69;82
+387;Lincoln St + Mcdonalds Opp Linc Plaza;42.2954;-71.77262;69;82
+388;Lincoln St + Denny's;42.29462;-71.77503;96;110
+389;Worcester Airport;42.26946;-71.87023;6;12
+391;Goddard Dr + 135 Goddard Dr;42.254255;-71.866833;16;21
+392;Goddard Dr + Upper Parsons Hill Dr;42.247428;-71.861175;16;21
+393;Goddard Dr + Lower Parsons Hill Dr;42.24343;-71.856166;16;21
+394;Main St at Stearns;42.24068;-71.853585;47;54
+395;Main St at Grandview;42.240966;-71.851573;47;54
+396;Main St at Eureka;42.24134;-71.84946;47;54
+397;Main St at Henshaw;42.241626;-71.848108;47;54
+398;Main St at Blaine;42.24196;-71.846638;47;54
+399;Main St at Curtis 1;42.2425;-71.844151;47;54
+400;Main St at Holland;42.242611;-71.84257;47;54
+402;Main St at Montague;42.243478;-71.839725;47;54
+403;Main St at Arbor Vitae;42.24424;-71.837285;47;54
+404;Main St + Curtis St I;42.24483;-71.83436;81;91
+405;Main St + Arena Plaza;42.245764;-71.830529;72;81
+407;Main St + Tirrell St;42.24688;-71.82828;72;81
+408;Main St + Lowell St;42.24764;-71.82689;72;81
+409;Main St + Freeland St;42.24835;-71.82557;71;81
+410;Main St + Crystal St;42.24972;-71.82303;71;81
+412;Main St + Wyman St;42.25139;-71.81993;71;81
+413;Main St + Gardner St;42.25213;-71.81855;71;81
+414;Main St + Ripley St;42.25336;-71.81625;71;81
+415;Main St + Hammond St;42.25429;-71.81474;71;81
+416;Main St + Benefit St;42.25545;-71.81245;71;81
+417;Main St + Lagrange St;42.25635;-71.81071;71;81
+419;Main St + Hermon St;42.25772;-71.80814;71;81
+420;Main St + Ionic Ave;42.2588;-71.80617;71;81
+421;Main St + Old Dmv;42.25986;-71.80474;112;129
+422;South High;42.244046;-71.863284;4;4
+423;Leicester Walmart;42.249797;-71.936829;24;26
+424;Cumberland Farms;42.245425;-71.93223;12;13
+425;Main St at Pine St;42.245492;-71.913418;12;13
+426;Leicester Center;42.246011;-71.909024;12;13
+427;Main St at Henshaw St;42.245476;-71.899167;12;13
+428;Main St at Auburn St;42.240401;-71.87994;12;13
+429;Main St at Gerald Ct;42.242289;-71.867522;12;13
+430;Main St at Leicester Line;42.240625;-71.863336;12;13
+431;Main St at Gould Hill;42.240338;-71.86053;12;13
+432;Main St at Ludlow;42.239726;-71.856246;12;13
+434;Spencer Dpw;42.237864;-72.009611;1;4
+435;Meadow Rd + Main St;42.234505;-72.012036;1;2
+436;Spencer Center;42.243872;-71.994537;12;13
+437;Spencer Town Hall;42.244225;-71.992161;12;13
+438;David Prouty High;42.250893;-71.978175;12;13
+439;Fallon Medical;42.256434;-71.959018;12;13
+442;Main St + Fed Court House;42.26082;-71.80386;115;128
+444;Main St + Wellington St;42.25807;-71.80762;73;82
+445;Main St + Jackson St;42.25677;-71.81008;73;82
+447;Main St + Oread Pl;42.25565;-71.81225;72;82
+448;Main St + May St;42.2544;-71.81473;73;82
+449;Main St + Claremont St;42.25362;-71.81601;73;82
+450;Main St + Norwood St;42.25246;-71.81816;73;82
+451;Main St + Hawthorne St;42.25138;-71.82017;73;82
+452;Main St + Gates St;42.24994;-71.82285;73;82
+453;Main St + Beaver St;42.24928;-71.82404;73;82
+455;Main St + Marble St;42.24766;-71.82706;73;82
+456;Main St + Lucian St;42.24669;-71.8288;73;82
+457;Main St + Cambridge St;42.24546;-71.83141;73;82
+459;Main St + Curtis St;42.244708;-71.835516;82;92
+460;Main St + Arbor Vitae St;42.244254;-71.837398;66;73
+461;Main St + Wayne St;42.24386;-71.83888;66;73
+462;Main St + Young St;42.24306;-71.84119;66;73
+463;Main St + Holland Rd;42.24279;-71.84262;66;73
+464;Main St at Gates Lane;42.242635;-71.844318;48;53
+465;Main St at Brookline;42.242333;-71.845403;48;53
+467;Main St at Sylvan;42.241757;-71.848313;48;53
+468;Main St at Eureka;42.241363;-71.849921;48;53
+469;Main St at Grandview;42.241021;-71.852026;12;13
+471;Goddard Dr at Lower Parsons Hill;42.243653;-71.856096;16;20
+472;Goddard Dr at Upper Parsons Hill;42.247618;-71.861063;16;20
+473;Goddard Dr at 135 G Drive;42.253988;-71.86654;16;20
+474;Goddard Dr at 156;42.2576;-71.866061;16;20
+476;Main St at Armandale;42.240386;-71.854911;12;13
+477;Main St at Ludlow;42.239846;-71.85631;12;13
+478;Main St at Gould Hill;42.240441;-71.859998;12;13
+479;Main St at Leicester Line;42.240783;-71.86359;12;13
+480;Boat Dealership;42.242595;-71.86789;12;13
+481;Main St at Auburn St;42.240211;-71.880645;12;13
+482;Main St at Henshaw St;42.245477;-71.899449;12;13
+483;Leicester Ctr;42.245591;-71.907521;12;13
+484;Cumberland Farms;42.245565;-71.932371;12;13
+486;Fallon at Bond St;42.25648;-71.959196;12;13
+487;David Prouty High;42.251114;-71.977921;12;13
+488;Spencer Town Hall;42.244307;-71.992248;12;13
+489;Spencer Ctr;42.243935;-71.99528;12;13
+490;Meadow Rd + Spencer Fair;42.234791;-72.011743;1;2
+491;Mower St + 31 Mower St;42.279001;-71.854696;14;34
+493;Pleasant St + Mill St;42.27799;-71.85113;14;16
+494;Pleasant St + Copperfield Rd;42.27806;-71.85019;14;16
+495;Pleasant St + Chesterfield Rd;42.27838;-71.84838;14;16
+496;Pleasant St + Cardinal Rd;42.27858;-71.8472;14;16
+497;Pleasant St + Moreland St;42.278034;-71.843736;14;16
+498;Pleasant St + Moore Ave;42.277471;-71.842011;14;16
+499;Pleasant St + May St;42.277266;-71.839873;14;16
+501;Pleasant St + Kenilworth Rd;42.27687;-71.836497;14;16
+502;Pleasant St + Kensington Heights;42.276;-71.83495;14;16
+503;Pleasant St + Lenox St;42.275056;-71.833563;14;16
+504;Pleasant St + Saint Elmo Rd;42.27355;-71.8314;14;16
+505;Pleasant St + Hawden Ln;42.271975;-71.83018;14;16
+506;Pleasant St + Howland Ter;42.27141;-71.82945;14;16
+508;Pleasant St + June St;42.269975;-71.8259;14;16
+509;Pleasant St + Coolidge Rd;42.269238;-71.825072;14;16
+510;Pleasant St + 642 Pleasant St;42.26729;-71.82405;14;16
+511;Pleasant St + Copley Rd;42.26611;-71.82344;14;16
+512;Pleasant St + Norman Ave 1;42.265076;-71.822219;14;16
+514;Pleasant St + Abbott St;42.264105;-71.820393;14;16
+515;Pleasant St + Park Ave;42.26352;-71.8192;14;16
+516;Pleasant St + Mason St;42.26334;-71.81782;14;16
+517;Pleasant St + Bellevue St;42.26342;-71.81624;14;16
+518;Pleasant St + Russell St;42.263718;-71.814339;14;16
+519;Pleasant St + Hawley St;42.26403;-71.812;14;16
+521;Pleasant St + Oxford St;42.26385;-71.80746;14;16
+522;Pleasant St + Irving St;42.26376;-71.80624;14;16
+523;Pleasant St + Chestnut St;42.26364;-71.8048;48;55
+524;Pleasant St + Linden St;42.26382;-71.80635;14;16
+525;Pleasant St + Ashland St;42.26391;-71.80763;14;16
+526;Pleasant St + West St;42.26401;-71.80915;14;16
+527;Pleasant St + Fruit St;42.26409;-71.81145;14;16
+528;Pleasant St + Merrick St;42.26386;-71.81403;14;16
+529;Pleasant St + Russell St;42.26369;-71.81504;14;16
+530;Pleasant St + Bellevue St;42.26344;-71.81645;14;16
+531;Pleasant St + Hudson St;42.26339;-71.81807;14;16
+532;Pleasant St + Park Ave;42.26363;-71.81933;14;16
+533;Pleasant St + Federal Pl;42.26429;-71.82056;14;16
+535;Pleasant St + Copley Rd 1;42.26579;-71.82307;14;16
+536;Pleasant St + Copley Rd 2;42.266714;-71.823656;14;16
+538;Pleasant St + Coolidge Rd;42.26949;-71.8251;14;16
+540;Pleasant St + Greenleaf Ter;42.270628;-71.827786;14;16
+541;Pleasant St + Elmwood St;42.27147;-71.82942;14;16
+543;Pleasant St + Intervale Rd;42.27268;-71.83061;14;16
+544;Pleasant St + Lenox St;42.27486;-71.83313;14;16
+546;Pleasant St + Kenilworth Rd;42.27691;-71.83639;14;16
+547;Pleasant St + Flagg St;42.27741;-71.83827;14;16
+548;Pleasant St + Guild Rd;42.27735;-71.84007;15;16
+549;Pleasant St + Moore Ave;42.27749;-71.84159;15;16
+550;Pleasant St + Moreland St;42.27813;-71.84376;14;16
+551;Pleasant St + Wrentham Rd;42.27876;-71.84646;14;16
+552;Pleasant St + Chesterfield Rd;42.27834;-71.8488;14;16
+554;Pleasant St + Pomona Rd;42.27814;-71.85215;14;16
+555;Pleasant St + Mower St;42.27828;-71.85326;14;16
+556;Pleasant St + South Oleans St;42.278696;-71.856257;28;33
+559;Main St + Elm St;42.1914;-71.760001;11;12
+571;Massasoit Rd + Blithewood Ave 1;42.235896;-71.76498;18;21
+583;Massasoit Rd + Heywood St;42.25002;-71.77979;18;21
+584;Grafton St + Plantation St;42.25173;-71.78204;49;57
+585;Dorchester St + Arthur St;42.2522;-71.78396;18;21
+586;Dorchester St + Houghton St;42.25207;-71.78646;18;21
+587;Dorchester St + Mendon St;42.25198;-71.78783;18;21
+588;Dorchester St + Barclay St;42.2519;-71.78906;18;21
+589;Dorchester St + Chapin St;42.25179;-71.79101;18;21
+590;Dorchester St + Providence St;42.25173;-71.79232;18;21
+597;Dorchester St + Providence St 2;42.2517;-71.79215;18;21
+598;Dorchester St + Chapin St;42.25178;-71.79054;18;21
+599;Dorchester St + Shannon St;42.25186;-71.789;18;21
+600;Dorchester St + Rice Ln;42.25192;-71.78813;18;21
+601;Dorchester St + Cutler St;42.251982;-71.786571;18;21
+603;Dorchester St + Arthur St;42.252148;-71.783843;18;21
+604;Grafton St + Acton St;42.251665;-71.782213;50;57
+606;Massasoit Rd + Heywood St;42.24974;-71.77958;18;21
+619;Massasoit Rd + Miscoe Rd;42.235348;-71.764646;18;21
+635;The Fairways;42.318095;-71.778753;13;30
+636;Mountain St. East + Mosque;42.31508;-71.77286;29;32
+637;100 Century Dr;42.314047;-71.769964;14;14
+638;Century Dr + Red Cross;42.315718;-71.769231;14;28
+639;Clark St + Teamster Village;42.313053;-71.773472;42;46
+640;Clark St + Tacoma St;42.31202;-71.7757;42;46
+641;Clark St at Harley;42.31153;-71.779755;26;28
+642;St. Nicholas Ave at Clark;42.310473;-71.781503;26;28
+643;St. Nicholas Ave at 194 St. Nicholas;42.309393;-71.7807;26;28
+644;St. Nicholas Ave at Ontario;42.308311;-71.779881;26;28
+645;St. Nicholas Ave at Squantum;42.30685;-71.778776;26;28
+646;St. Nicholas Ave at Onandaga;42.305673;-71.777895;26;28
+647;St. Nicholas Ave at Hilda;42.30441;-71.776948;26;28
+648;St. Nicholas Ave at 5 St. Nicholas;42.303281;-71.775303;27;28
+649;Country Club Blvd. At Erie;42.302995;-71.774866;27;28
+650;Country Club Blvd. At Rec Center;42.301898;-71.77636;27;28
+651;Country Club Blvd. At 111 Cc Blvd;42.299895;-71.776885;27;28
+652;Country Club Blvd. At 91 Cc Blvd;42.29926;-71.776345;27;28
+653;Country Club Blvd. At Pleasant Valley;42.297781;-71.775335;27;28
+654;Country Club Blvd. At Plaza Entrance;42.296375;-71.775041;27;28
+655;Country Club Blvd. At Lincoln;42.295126;-71.774986;27;28
+656;Lincoln St at Goldwaithe;42.293111;-71.778198;62;71
+657;Lincoln St at Beverly;42.292241;-71.780111;62;71
+658;Lincoln St at Hanover Ins;42.291606;-71.781955;62;71
+659;Lincoln St at Oran;42.289325;-71.78674;62;71
+661;Lincoln St at Frothingham;42.287553;-71.789283;62;71
+662;Lincoln St at 290 Ramp;42.273986;-71.797565;63;71
+663;Lincoln St at Lincoln Sq;42.271896;-71.798835;98;112
+664;Maj Taylor Blvd at Highland;42.270848;-71.798906;126;141
+665;Maj Taylor Blvd at Mcp;42.2698;-71.798883;126;141
+668;Main St + Thomas St;42.268193;-71.800441;27;31
+670;Maj Taylor Blvd at Mcp;42.269815;-71.798581;126;145
+671;Maj Taylor Blvd at Belmont;42.270951;-71.79859;126;145
+672;Lincoln St at Old Lincoln 1;42.272263;-71.79851;63;73
+673;Lincoln St at Old Lincoln 2;42.27371;-71.797531;63;73
+674;Lincoln St at Buckingham;42.287481;-71.78918;63;73
+675;Lincoln St at Gorham;42.28842;-71.787813;63;73
+676;Lincoln St at Wakefield;42.289381;-71.786421;63;73
+677;Lincoln St at Hanover Ins;42.291328;-71.782178;63;73
+678;Lincoln St at Marsh;42.292083;-71.780206;63;73
+679;Lincoln St at Trinity;42.29295;-71.7783;63;73
+680;Country Club Blvd. At Lincoln;42.29508;-71.774636;27;30
+681;Country Club Blvd. At Hotel Entrance;42.296145;-71.774826;27;30
+682;Country Club Blvd. At 52 Cc Blvd;42.297566;-71.775025;27;30
+683;Country Club Blvd. At 126 Cc Blvd;42.299291;-71.776258;27;30
+684;Country Club Blvd. At 132 Cc Blvd;42.299935;-71.77679;27;30
+685;Country Club Blvd. At Rec Center;42.301835;-71.776305;27;30
+686;Country Club Blvd. At Erie;42.303026;-71.774708;27;30
+687;St. Nicholas Ave at Country Club Blvd;42.303321;-71.775216;27;30
+688;St. Nicholas Ave at Hilda;42.304425;-71.776821;27;30
+689;St. Nicholas Ave at Onandaga;42.305856;-71.777886;27;30
+690;St. Nicholas Ave at Squantum;42.306786;-71.778593;27;30
+691;St. Nicholas Ave at Ontario;42.30816;-71.779603;27;30
+692;St. Nicholas Ave at 191 St. Nicholas;42.309393;-71.78051;27;30
+693;St. Nicholas Ave at Clark;42.310521;-71.781343;27;30
+694;Clark St at Harley;42.311498;-71.780016;27;30
+695;Tacoma St + Clark St;42.31216;-71.77517;43;47
+696;Clark St + Teamster Village;42.31311;-71.77309;43;47
+697;Mountain St East + Mosque;42.315218;-71.772852;29;33
+698;Mountain St East + Briar Ln;42.31791;-71.77556;29;33
+699;Research Dr + Innovation Dr;42.276675;-71.767452;27;29
+700;Worcester State Hospital;42.278416;-71.769544;27;29
+701;Hospital Dr + Belmont St;42.273986;-71.772656;27;29
+702;Belmont St + Mcrae Ct;42.273733;-71.773896;27;29
+703;Belmont St + Prentice St;42.273653;-71.775725;27;29
+704;Belmont St + Oden Ave;42.273581;-71.778633;28;29
+705;Belmont St + Skyline Dr;42.273406;-71.782083;28;29
+706;Belmont St + Olga Ave;42.272795;-71.784546;28;29
+707;Belmont St + Stanton St;42.272795;-71.78604;28;29
+708;Belmont St + Everard St;42.272716;-71.786963;28;29
+709;Belmont St + Rodney St;42.272573;-71.788075;28;29
+710;Belmont St + Eastern Ave;42.272461;-71.789156;28;29
+711;Belmont St + Hooper St;42.272303;-71.790506;28;29
+712;Belmont St + Edward St;42.272096;-71.7927;28;29
+713;Belmont St + Fountain St;42.271778;-71.795975;28;29
+714;Hooper St + Kendall St;42.273378;-71.78985;25;25
+715;Hooper St at Catherine;42.274828;-71.789302;25;25
+716;Greenhill Apartments;42.277086;-71.788305;25;25
+717;Hooper St at Catherine;42.275022;-71.789446;25;25
+718;Hooper St + Kendall St;42.273526;-71.789903;25;25
+719;Hooper St + Belmont St;42.272662;-71.790207;25;25
+720;Belmont St + Route 290 Ramp West;42.27158;-71.796253;27;31
+721;Belmont St + Route 290 Ramp East;42.271921;-71.793653;27;31
+722;Belmont St + Edward St;42.272095;-71.791856;28;31
+723;Belmont St at Elizabeth;42.272216;-71.79067;28;31
+724;Belmont St + Eastern Ave;42.272358;-71.789728;28;31
+725;Belmont St + Merrifield St;42.272409;-71.788926;28;31
+726;Belmont St + Everard St;42.27262;-71.787017;28;31
+727;Belmont St + Stanton St;42.272656;-71.785641;28;31
+728;Belmont St + Olga Ave;42.272672;-71.784615;28;31
+729;Belmont St + Skyline Dr;42.273303;-71.781701;28;31
+730;Belmont St + Adams St;42.273478;-71.778141;28;31
+731;Belmont St + Prentice St;42.273566;-71.77528;28;31
+732;Belmont St + Mcrae Ct;42.273581;-71.774071;28;31
+733;Hospital Dr + Belmont St;42.273963;-71.772546;28;31
+735;Research Dr + Innovation Dr;42.276507;-71.76767;28;31
+736;North Lake Ave + North Lake Ave;42.278096;-71.75921;28;31
+737;Seabury Heights;42.272271;-71.78155;39;39
+747;Southbridge St at 982;42.232955;-71.81841;16;17
+748;Southbridge St at Malvern;42.235522;-71.816451;16;17
+749;Southbridge St at Kendig;42.236251;-71.815732;16;17
+750;Southbridge St at Boyden;42.237223;-71.814856;16;17
+751;Southbridge St at College;42.239433;-71.813346;16;17
+752;Southbridge St at Crompton;42.241768;-71.811996;16;17
+759;Canterbury St + S.crystal St;42.24419;-71.82163;9;10
+760;Canterbury St + Walpole St;42.24565;-71.81932;9;10
+761;Canterbury St + Grand St;42.24726;-71.81678;9;10
+762;Canterbury St + Gardner St;42.24855;-71.81474;9;10
+763;47 Canterbury St;42.24933;-71.8135;9;10
+764;Canterbury St + Hammond St;42.25138;-71.81034;9;10
+765;Southbridge St + Lafayette St;42.2525;-71.80785;25;27
+766;Southbridge St + Quinsigamond Ave;42.25368;-71.80701;25;27
+769;Auburn Mall;42.202323;-71.836423;55;89
+770;Southbridge St at Auburn St;42.206838;-71.832956;16;17
+771;Southbridge St at Hampton St;42.211976;-71.828841;16;17
+772;Southbridge St at Sword St;42.222964;-71.823448;16;17
+773;Southbridge St at Elmwood St;42.228473;-71.820658;16;17
+775;Southbridge St at Hope Ave;42.230993;-71.819245;16;17
+776;Southbridge St + Old Dmv;42.2595;-71.80367;23;27
+777;Southbridge St + Madison St;42.25812;-71.80389;9;10
+778;Southbridge St + Lafayette St;42.25306;-71.80754;23;26
+779;Canterbury St + Hammond St;42.25131;-71.81052;9;10
+780;32 Canterbury St;42.250012;-71.81265;9;10
+781;Canterbury St + Gardner St;42.24909;-71.81399;9;10
+782;Canterbury St + Grand St;42.24756;-71.81641;9;10
+783;Canterbury St + Walpole St;42.24575;-71.81927;9;10
+784;Canterbury St + S.crystal St;42.24444;-71.82136;9;10
+785;Canterbury St + Cambridge St;42.24389;-71.8222;9;10
+792;Southbridge St at Colloge Sq;42.241749;-71.812167;14;16
+794;Southbridge St at Malvern;42.235416;-71.81683;14;16
+795;Southbridge St at 982;42.233181;-71.818546;14;16
+805;Southbridge St at Hope Ave;42.23103;-71.819331;14;16
+807;Southbridge St at Elmwood St;42.228872;-71.820583;14;16
+808;Southbridge St at Sword St;42.223076;-71.823496;14;16
+809;Southbridge St at Hampton St;42.21168;-71.828925;14;16
+810;Southbridge St at Auburn St;42.206491;-71.833525;14;16
+811;Southbridge St + Swanson St;42.203753;-71.836987;39;45
+814;Tacoma St + Constitution Ave 2;42.30757;-71.77507;52;59
+815;Tacoma St + Chino Ave;42.30656;-71.77347;51;59
+816;Tacoma St + New Vista Ln;42.30634;-71.77235;51;59
+817;Tacoma St + 134 Tacoma St;42.30621;-71.77039;51;59
+818;Tacoma St + Great Brook Valley Ave 2;42.30507;-71.76823;51;59
+819;Tacoma St + Pasadena Pkwy 1;42.304211;-71.767571;35;41
+820;Tacoma St + Great Brook Valley Ave 1;42.302795;-71.766289;35;41
+821;Tacoma St + Pasadena Pkwy;42.3015;-71.76514;51;61
+822;Boylston St + Chino Ave;42.29947;-71.76599;51;61
+823;Lincoln St at Denny's;42.293999;-71.775838;63;73
+824;Boylston St + Chino Ave;42.299648;-71.76557;52;60
+825;Tacoma St + Pasadena Pkwy;42.30179;-71.76505;52;60
+826;Tacoma St + Great Brook Valley Ave 1;42.302558;-71.766005;36;43
+827;Tacoma St + 57 Tacoma St;42.30435;-71.76728;52;60
+828;Tacoma St + 67 Tacoma;42.30499;-71.76808;52;60
+829;Tacoma St + Constitution;42.30625;-71.77059;52;60
+830;Tacoma St + New Vista Ln;42.30647;-71.7724;52;60
+831;Tacoma St + Chino Ave;42.306626;-71.773523;36;43
+832;Tacoma St + Constitution Ave;42.3072;-71.77451;53;60
+837;Oxford St North + Auburn St;42.21479;-71.84587;24;27
+838;Oxford St North + Rochdale St;42.217851;-71.845346;24;27
+839;Pinehurst Ave + Otis St;42.22317;-71.84702;24;27
+840;South Ludlow St + Moss St;42.22766;-71.84858;24;27
+841;South Ludlow St + Keen St;42.22836;-71.848758;24;27
+842;South Ludlow St + Clover St;42.22956;-71.849;24;27
+843;South Ludlow St + Laurier St;42.23097;-71.84933;24;27
+844;James St + 70 James St;42.23244;-71.84955;24;27
+845;James St + Genesee St;42.23443;-71.84963;24;27
+846;James St + Airport Circle;42.23561;-71.84982;24;27
+847;Stafford St + Eureka St;42.23669;-71.84828;24;27
+848;Stafford St + Henshaw St;42.23751;-71.84689;24;27
+850;Stafford St + Varnum St;42.23885;-71.84456;24;27
+851;Stafford St + Heard St;42.23979;-71.84296;42;47
+852;Stafford St + Webster Sq Plaza;42.240758;-71.841519;43;47
+853;Stafford St + Young St;42.242051;-71.839838;43;47
+854;Stafford St + Webster Sq;42.24334;-71.83807;43;47
+856;Stafford St + Webster Sq;42.24342;-71.83819;25;29
+857;Stafford St + Young St;42.24204;-71.84013;25;29
+858;Stafford St + Webster Sq Plaza;42.240887;-71.841604;25;29
+859;Stafford St + Curtis Pkwy;42.240567;-71.842073;25;29
+860;Stafford St + Varnum St;42.23895;-71.84472;25;29
+862;Stafford St + Henshaw St;42.23742;-71.84725;25;29
+863;Stafford St + Eureka St;42.23664;-71.84864;25;29
+864;Stafford St + Grandview Ave;42.236;-71.84973;25;29
+865;James St + Genesee St;42.23461;-71.84981;25;29
+866;James St + 70 James St;42.23241;-71.84973;25;29
+867;South Ludlow St + Laurier St;42.23039;-71.84935;25;29
+869;South Ludlow St + Keen St;42.22839;-71.84889;25;29
+870;South Ludlow St + Moss St;42.22764;-71.84872;25;29
+871;Pinehurst Ave + Otis St;42.22323;-71.84719;25;29
+872;Oxford St North + Rochdale St;42.21817;-71.84543;25;29
+873;Oxford St North + Auburn St;42.2147;-71.84604;25;29
+874;Auburn St + Bryn Mawr St;42.21362;-71.84252;25;29
+878;May St + Wsu;42.26686;-71.84028;19;44
+879;May St + Zenith Dr;42.2658;-71.83961;19;22
+880;May St + Underwood St;42.26416;-71.83786;19;22
+882;June St + May St;42.26331;-71.83618;19;22
+883;June St + Courtland St;42.2637;-71.83488;19;22
+884;June St + Carlise St;42.2646;-71.83296;19;22
+885;June St + Edgewood St;42.26556;-71.83157;19;22
+886;June St + Brownell St;42.26644;-71.83029;19;22
+887;June St + Berkmans St;42.26732;-71.82902;18;22
+888;June St + Commodore Rd;42.26833;-71.82756;18;22
+890;June St + Pleasant St;42.26955;-71.82579;18;22
+891;Highland St + Newton Sq;42.269842;-71.824186;18;22
+892;Highland St + Suburban Rd;42.27;-71.82186;18;22
+893;Highland St + Haviland St;42.27009;-71.82003;18;22
+894;Highland St + Germain St;42.27018;-71.81818;18;22
+896;Highland St + Park Ave;42.27036;-71.81532;18;22
+897;Highland St + Somerset St;42.27049;-71.81361;18;22
+898;Highland St + Sever St;42.27067;-71.81133;18;22
+899;Highland St + West St;42.270916;-71.808105;18;22
+900;Highland St + North Ashland St;42.27108;-71.8064;18;22
+901;Highland St + Goulding St;42.27123;-71.80452;18;22
+903;Lancaster St + Dix St;42.26942;-71.80324;18;22
+904;Linden St + William St;42.26692;-71.80462;18;22
+905;Linden St + Cedar St;42.26631;-71.80524;18;22
+906;Linden St + 11 Linden St;42.26472;-71.80586;34;39
+908;Chestnut St + Walnut St;42.265662;-71.803958;18;22
+909;Chestnut St + Bowdoin St;42.26742;-71.80349;18;22
+910;Harvard St + Dix St;42.26897;-71.80241;18;22
+911;Highland St + Harvard St;42.27148;-71.8021;18;22
+912;Highland St + Dean St;42.2713;-71.80448;18;22
+913;Highland St + North Ashland St;42.271119;-71.807175;18;22
+914;Highland St + Schussler Rd;42.27095;-71.809005;18;22
+915;Highland St + Einhorn Rd;42.27069;-71.81167;19;22
+916;Highland St + Dover St;42.27055;-71.81348;19;22
+917;Highland St + Park Ave;42.27037;-71.81577;19;22
+918;Highland St + Germain St;42.27023;-71.81814;19;22
+919;Highland St + Haviland St;42.27025;-71.81959;19;22
+920;Highland St + Suburban Rd;42.27004;-71.8217;19;22
+921;Highland St + Newton Sq;42.26991;-71.82463;19;22
+922;June St + Pleasant St;42.269256;-71.826453;19;22
+924;June St + Nevada St;42.26754;-71.82876;19;22
+925;June St + Hadwen Rd;42.26643;-71.83039;19;22
+926;June St + Edgewood St;42.26553;-71.83167;19;22
+927;June St + Chandler St;42.26411;-71.83378;19;22
+928;Chandler St + Fiske St;42.26474;-71.83489;33;39
+930;Chandler St + Perrot St;42.2662;-71.83751;33;39
+931;Chandler St + Hadwen Rd;42.266853;-71.838618;33;39
+932;Walmart West Boyleston;42.355471;-71.782878;36;82
+934;244 West Boylston St;42.345051;-71.787073;36;41
+935;326 West Boylston St;42.341451;-71.78817;36;41
+937;West Boylston St at Meola;42.335571;-71.789005;36;41
+938;West Boylston St at Wilbur;42.33453;-71.789408;36;41
+939;West Boylston St at Kennebec;42.333408;-71.789863;36;41
+940;West Boylston St at Apthrop;42.33148;-71.790722;36;41
+941;West Boylston St at Cotuit;42.330071;-71.79119;36;41
+942;West Boylston St at Dixfield;42.328256;-71.791634;36;41
+943;West Boylston St at Stop & Shop;42.327201;-71.791938;36;41
+944;West Boylston St at Reynolds;42.325601;-71.79278;36;41
+945;West Boylston St at Malden;42.324723;-71.793233;36;41
+946;West Boylston St + Vendora Rd;42.323338;-71.794049;65;73
+947;West Boylston St + 829 West Boylston St;42.322203;-71.794499;65;73
+948;West Boylston St + Volkman Rd;42.320903;-71.795065;65;73
+949;West Boylston St + Clyde Rd;42.318427;-71.795983;65;73
+950;West Boylston St + Marland Rd;42.316886;-71.796411;65;73
+951;West Boylston St + Quinsigamond College;42.314485;-71.79706;51;58
+952;West Boylston St + Assumption Ave;42.312641;-71.797651;35;41
+953;West Boylston St + Randall St;42.311653;-71.797898;35;41
+954;West Boylston St + Fales St;42.31066;-71.798251;35;41
+955;West Boylston St + Francis St;42.309932;-71.798485;51;58
+956;West Boylston St + Brooks St;42.308749;-71.798884;51;58
+957;West Boylston St +  Summerhill Ave;42.306858;-71.799827;51;58
+958;West Boylston St + New Bond St;42.304691;-71.800851;51;58
+959;West Boylston St + Andover St;42.30296;-71.80095;51;58
+960;West Boylston St + Bourne St;42.30213;-71.80054;51;58
+961;West Boylston St + Erickson St;42.30106;-71.80017;51;58
+962;West Boylston St + Neponset St;42.29949;-71.80229;51;58
+963;West Boylston St + Boardman St;42.293482;-71.804454;60;68
+964;West Boylston St + Huntington Ave;42.29157;-71.80562;60;68
+965;West Boylston St + Barnes Ave;42.29096;-71.80607;60;68
+966;West Boylston St + Grove St;42.28872;-71.80736;60;68
+967;Grove St + Chadwick St;42.2866;-71.80729;60;68
+968;Grove St at North;42.280981;-71.805543;35;41
+969;Grove St at Cemetery;42.279613;-71.804653;35;41
+970;Grove St at Fire Station;42.277723;-71.80292;35;41
+971;Grove St at 106 Grove;42.276377;-71.801347;35;41
+972;Grove St at Faraday;42.274988;-71.800648;35;41
+973;Grove St at Concord;42.273653;-71.800416;35;41
+974;Grove St + Concord St;42.27394;-71.800385;36;41
+975;Grove St + 74 Grove St;42.274893;-71.800528;36;41
+976;Grove St + Faraday St;42.275687;-71.800723;36;41
+977;Grove St + Lancaster St;42.276443;-71.801251;36;41
+978;Grove St + Fire Station;42.27808;-71.803088;36;41
+979;Grove St + Cemetery;42.279328;-71.804324;36;41
+980;Grove St + North St;42.280718;-71.805256;36;41
+981;Grove St + Brookfield St;42.282555;-71.80633;36;41
+982;Grove St + Glennie St;42.284016;-71.80722;36;41
+983;Gold Star Blvd + Chadwick St;42.288156;-71.805138;36;41
+984;Gold Star Blvd + Millbrook St;42.2893;-71.80418;62;69
+985;Gold Star Blvd + Ruthven Ave;42.29082;-71.80323;62;69
+986;Gold Star Blvd + West Boylston Ter;42.29209;-71.8027;62;69
+987;Gold Star Blvd + Frostholm St;42.29355;-71.80244;62;69
+988;Gold Star Blvd + Neponset St;42.29782;-71.80283;53;59
+989;West Boylston St + Neponset St 1;42.29899;-71.80207;53;59
+990;West Boylston St + Barber Ave;42.300983;-71.800022;53;59
+991;West Boylston St + Bourne St;42.30192;-71.80017;53;59
+992;West Boylston St + New Bond St;42.30512;-71.80049;53;59
+993;West Boylston St + Airlie St;42.30791;-71.79905;53;59
+994;West Boylston St + Fairhaven Rd;42.30961;-71.79844;53;59
+995;West Boylston St + Fales St;42.310407;-71.798191;53;59
+996;West Boylston St + Randall St;42.31143;-71.79784;52;59
+997;West Boylston St + Assumption Ave;42.31289;-71.7974;52;59
+998;West Boylston St + Quinsigmund Community College;42.31538;-71.79663;65;75
+999;West Boylston St + Marland Rd;42.31671;-71.79625;65;75
+1000;West Boylston St + Clyde Rd;42.31829;-71.79583;65;75
+1001;West Boylston St + Volkmar Rd;42.32055;-71.79497;65;75
+1002;West Boylston St + Hastings Rd;42.32223;-71.79431;65;75
+1003;West Boylston St + Vendora Rd;42.32326;-71.793903;65;75
+1004;West Boylston St + Malden St;42.324588;-71.793145;36;41
+1005;West Boylston St + Reynolds St;42.325343;-71.792788;36;41
+1006;West Boylston St + Stop & Shop;42.327138;-71.791841;36;41
+1007;West Boylston St + Dixfield Rd;42.328251;-71.791485;36;41
+1008;West Boylston St + Cotuit St;42.329793;-71.791206;36;41
+1009;West Boylston St + Apthrop St;42.33143;-71.790555;36;41
+1010;West Boylston St + Kennebec St;42.333235;-71.7898;36;41
+1011;West Boylston St + Wilbur St;42.334291;-71.789346;36;41
+1012;West Boylston St + Tyson Rd;42.335118;-71.789005;36;41
+1014;West Boylston St + Chapman Ave;42.341753;-71.787963;36;41
+1015;West Boylston St + 249 West Boylston St;42.345076;-71.78693;36;41
+1017;Mountain St East + 107 Mountain;42.32034;-71.78445;16;17
+1018;Mountain St. East + Burncoat St;42.323568;-71.792244;16;18
+1019;Mountain St. East + Quinapoxet Ln;42.320358;-71.784932;16;18
+1020;Mountain St. East + Briar Ln;42.31777;-71.77575;16;18
+1022;Brookfield Common;42.214843;-72.100697;4;8
+1023;Central St at South Maple;42.214716;-72.096938;4;4
+1025;E Main at N Brookfield;42.225048;-72.057296;4;4
+1026;East Brookfield Center;42.2262;-72.05016;4;4
+1027;Courthouse E Main;42.23139;-72.030093;4;4
+1029;Big Y Plaza;42.232836;-72.013776;11;11
+1030;Big Y Plaza;42.233071;-72.01353;10;11
+1032;Court House;42.231491;-72.030657;3;4
+1033;Fire Stat.east Brookfield Ctr;42.226431;-72.050283;3;4
+1034;E Main St at N Brookfield Rd;42.225055;-72.057615;3;4
+1036;Lincoln Park Tower;42.27299;-71.75833;18;21
+1037;Shoppes + Blackstone Valley;42.195786;-71.777092;11;24
+1039;Millbury St + Grammont Rd;42.237335;-71.794893;10;12
+1040;Millbury St + Footbridge Over 146;42.237811;-71.796595;10;12
+1041;Millbury St + Burton St;42.238333;-71.798048;10;12
+1042;Millbury St + Esther St;42.239813;-71.800298;10;12
+1043;Millbury St + Fifth Ave;42.240808;-71.801426;10;12
+1044;Millbury St + Perry Ave;42.243033;-71.802356;10;12
+1045;Millbury St + Diamond St;42.244741;-71.802118;10;12
+1046;Millbury St + Harlem St;42.246505;-71.801005;10;12
+1047;Millbury St + Ward St;42.247183;-71.800559;10;12
+1049;Millbury St + Seymour St;42.249887;-71.800709;11;13
+1052;Millbury St + Lafayette St;42.25443;-71.798333;10;12
+1057;Harding St + Crompton Park;42.249606;-71.801243;10;12
+1058;Millbury St + Ward St;42.247216;-71.800657;11;13
+1059;Millbury St + Harlem St;42.246212;-71.801274;11;13
+1060;Millbury St + Diamond St;42.244665;-71.802254;11;13
+1061;Millbury St + Perry Ave;42.242862;-71.80248;11;13
+1062;Millbury St + Fifth Ave;42.240918;-71.801648;11;13
+1063;Millbury St + Esther St;42.239981;-71.800686;11;13
+1066;Webster Center;42.049176;-71.884827;8;19
+1067;East Main St + Lake St;42.050248;-71.879978;9;10
+1068;East Main St + Day St;42.054928;-71.876353;9;10
+1069;East Main St + Park Ave;42.057526;-71.869581;9;10
+1070;East Main St + Paradis Ln;42.058465;-71.867261;9;10
+1071;Worcester Rd at 75;42.070735;-71.86638;9;10
+1073;Main St at Holbrook Rd;42.097613;-71.868581;9;10
+1074;Main St at State St;42.104026;-71.866801;9;10
+1075;Oxford Center;42.11784;-71.864551;9;10
+1076;Main St at Federal Hill;42.137286;-71.866356;9;10
+1077;Main St at Plantation;42.145616;-71.865935;9;10
+1078;Southbridge St at Old Worcester;42.147928;-71.86909;9;10
+1079;Southbridge St at Liecester;42.163416;-71.886486;9;10
+1080;Main St at 742;42.172023;-71.880128;9;10
+1082;Southbridge St at West;42.182825;-71.865463;16;17
+1083;Southbridge at 711;42.183141;-71.860093;16;17
+1084;Southbridge St at Oxford;42.188507;-71.849654;16;17
+1085;Southbridge at 569;42.191591;-71.845099;16;17
+1086;Southbridge St at Cambridge;42.244535;-71.810518;16;17
+1087;Southbridge St at Washburn;42.246091;-71.810271;16;17
+1088;Southbridge St at 539 Southbridge;42.247236;-71.810168;16;17
+1089;Southbridge St at 459 Southbridge;42.250336;-71.80916;16;17
+1090;Southbridge St at Hammond;42.251011;-71.808793;16;17
+1093;Southbridge St at Hammond;42.250908;-71.80896;14;16
+1094;Southbridge St at Gladstone;42.247127;-71.810452;14;16
+1095;Southbridge St at Lewis;42.246163;-71.810391;14;16
+1096;Southbridge St at Colton;42.245146;-71.810533;14;16
+1097;Southbridge St at Cambridge;42.24424;-71.810773;14;16
+1098;Southbridge St at Riverside;42.24293;-71.811551;14;16
+1099;Southbridge St at Johnson St;42.191828;-71.845041;14;16
+1100;Southbridge St at Oxford St N;42.18865;-71.8495;14;16
+1101;Southbridge St at Goulding St;42.18327;-71.859935;14;16
+1102;Southbridge St at West St;42.182633;-71.866626;14;16
+1104;Walmart;42.172086;-71.880176;8;9
+1105;Southbridge St at Liecester;42.163218;-71.886541;8;9
+1106;Main St at Old Worcester;42.150963;-71.872983;8;9
+1107;Main St at Plantation;42.145281;-71.865903;8;9
+1108;Main St at Federal Hill;42.13743;-71.866563;8;9
+1109;Oxford Center;42.118287;-71.864642;8;9
+1110;Main St at State;42.103995;-71.866911;8;9
+1111;Main St at Sunset;42.097073;-71.869233;8;9
+1113;Worcester Rd at 75;42.070496;-71.866451;8;9
+1114;Worcester Rd at East Main;42.059848;-71.864511;8;9
+1115;East Main St at Slater;42.057216;-71.870695;8;9
+1116;East Main St at Day;42.05488;-71.876623;8;9
+1120;Grafton St + Blithewood Ave;42.236818;-71.751811;18;21
+1121;Grafton St + Clarissa St;42.237803;-71.752486;18;21
+1122;Grafton St + Monteforte St;42.239368;-71.753186;18;21
+1124;Grafton St at Sunderland;42.24153;-71.754266;32;36
+1125;Grafton St at Pine Hill;42.243605;-71.756301;32;36
+1127;Grafton St at Jolma;42.245281;-71.75894;32;36
+1130;Grafton St at Jenngs;42.24854;-71.762023;32;36
+1131;Grafton St at Bangor;42.250605;-71.764928;32;36
+1132;Grafton St at Corre;42.250686;-71.76854;32;36
+1133;Grafton St at Warner;42.250893;-71.772395;32;36
+1134;Grafton St at Dana;42.250526;-71.773555;32;36
+1135;Grafton St at Delmont;42.250225;-71.775311;32;36
+1136;Grafton St at Puritan;42.250961;-71.777104;32;36
+1137;Grafton St at Fairmont;42.251051;-71.778561;31;36
+1138;Grafton St at Rugby;42.251006;-71.779714;31;36
+1139;Grafton St at Flower;42.252688;-71.782606;31;36
+1140;Grafton St at Hale;42.254396;-71.78364;31;36
+1141;Grafton St at Carole;42.255231;-71.784633;31;36
+1147;Grafton St at Arthur;42.255328;-71.785029;32;36
+1148;Grafton St at Palm;42.254726;-71.784259;32;36
+1149;Grafton St at Flower;42.252693;-71.782837;32;36
+1150;Grafton St at Fairmont;42.250853;-71.779603;31;36
+1151;Grafton St at Puritan;42.250874;-71.77743;31;36
+1152;Grafton St at Lamar;42.250133;-71.77544;31;36
+1153;Grafton St at Dana;42.25044;-71.773523;31;36
+1154;Grafton St at Inverness;42.250741;-71.771998;31;36
+1155;Grafton St at Corre;42.250504;-71.768891;31;36
+1156;Grafton St at Valmor;42.250676;-71.767042;31;36
+1158;Grafton St at Progressive;42.250521;-71.765038;31;36
+1159;Grafton St at Jenngs;42.248697;-71.762426;31;36
+1160;Grafton St at Arcadia;42.247703;-71.761411;31;36
+1161;Grafton St at Dalton;42.246171;-71.759886;31;36
+1162;Grafton St at 1003 Grafton St;42.244161;-71.757318;31;36
+1163;Grafton St at Pine Hill;42.243588;-71.756413;31;36
+1164;Grafton St at Sunderland;42.241316;-71.754196;31;36
+1166;Grafton St + Monteforte St;42.239155;-71.753258;18;21
+1167;Grafton St + Clarissa St;42.23793;-71.752754;18;21
+1175;Sunny Hill Dr + Bailey Rd;42.2794;-71.8785;14;16
+1176;Bailey St + Asabet Ln;42.279702;-71.876512;14;16
+1177;Bailey St + Airport Dr;42.28014;-71.8744;14;16
+1178;Pleasant St + Edwidge St;42.28043;-71.87254;14;16
+1180;Pleasant St + Prouty Ln;42.2802;-71.86938;14;16
+1181;Pleasant St + Joppa Rd;42.279596;-71.867575;14;16
+1188;Chandler St + Pleasant St;42.278166;-71.853994;14;17
+1189;Chandler St + Mill St;42.276768;-71.852941;14;17
+1190;Chandler St + Annisquam St;42.275553;-71.85167;14;17
+1192;Chandler St + Manhatten Rd;42.273544;-71.849645;14;17
+1193;Chandler St + Hunthurst Circle;42.271926;-71.847585;14;17
+1194;Chandler St + Worcester State University;42.2684;-71.841106;14;17
+1195;Chandler St + Hamill Rd;42.266986;-71.839096;14;17
+1197;Chandler St + Underwood St;42.265706;-71.836713;14;17
+1198;Chandler St + Fiske St;42.264753;-71.83502;14;17
+1199;Chandler St + June St;42.263846;-71.833421;14;17
+1200;Chandler St + Geneva St;42.263177;-71.831261;14;17
+1203;Chandler St + Coolidge Rd;42.262341;-71.825745;14;17
+1204;Chandler St + Mayfield St;42.262256;-71.823853;14;17
+1205;Chandler St + Abbott St;42.261771;-71.82182;14;17
+1206;Chandler St + Dewey St;42.261351;-71.820213;14;17
+1208;Chandler St + King St;42.260459;-71.816035;14;17
+1209;Chandler St + Queen St;42.260499;-71.813802;14;17
+1210;Chandler St at Piedmont;42.260525;-71.811891;41;48
+1211;Chandler St at Wellington;42.260539;-71.80973;41;48
+1212;Chandler St at Irving;42.260152;-71.807105;41;48
+1213;Chandler St at Main;42.259888;-71.805368;42;46
+1214;Chandler St at Irving;42.260295;-71.80691;42;46
+1215;Chandler St at Wellington;42.260636;-71.809373;42;46
+1216;Chandler St at Piedmont;42.260691;-71.812028;42;46
+1217;Chandler St at Queen;42.260675;-71.813251;42;46
+1218;Chandler St + Bellevue St;42.260611;-71.815565;14;17
+1219;Chandler St + Bancroft St;42.260811;-71.817631;14;17
+1220;Chandler St + Dewey St;42.261343;-71.819586;14;17
+1221;Chandler St + Abbott St;42.261775;-71.821405;14;17
+1222;Chandler St + Foley Stadium;42.262305;-71.823583;14;17
+1223;Chandler St + Coolidge Rd;42.262503;-71.826755;14;17
+1224;Chandler St + Lovell St;42.262925;-71.829195;14;17
+1225;Chandler St + Geneva St;42.263315;-71.831388;14;17
+1226;Chandler St + June St;42.264013;-71.833525;14;17
+1227;Chandler St + Worcester State University;42.268961;-71.841207;14;17
+1228;Chandler St + Hunthurst Circle;42.272008;-71.847361;14;17
+1229;Chandler St + Manhatten Rd 1;42.27371;-71.849618;14;17
+1230;Chandler St + Atwater St;42.274981;-71.850921;14;17
+1231;Chandler St + Mill St;42.276991;-71.852925;14;17
+1232;Chandler St + Pleasant St;42.27808;-71.853751;14;17
+1241;Mower St + Pleasant St 2;42.27937;-71.866308;14;16
+1243;Pleasant St + Baxter St;42.28019;-71.86894;14;16
+1245;Pleasant St + Edwidge St;42.28059;-71.8723;14;16
+1246;Pleasant St + 1341 Pleasant St;42.28099;-71.87484;14;16
+1248;Sunny View Heights + Pleasant St;42.28303;-71.88018;14;26
+1249;Outlook Dr at Swan Ave;42.257882;-71.854702;27;60
+1250;Williamsburg Dr at 69 Outlook;42.257556;-71.853238;28;31
+1251;Outlook Dr at  23 Outlook;42.257193;-71.850874;28;31
+1252;Williamsburg Dr at Mill;42.257739;-71.849117;28;31
+1253;Mill St at Fourth;42.256718;-71.847895;28;31
+1255;Mill St at Bay State Savgs;42.254824;-71.846171;28;31
+1256;Mill St at O'coins;42.253221;-71.844556;28;31
+1257;Mill St at Pond Bath House;42.251166;-71.84268;28;31
+1258;Mill St at Plaza Entr;42.250143;-71.841681;28;31
+1259;Mill St at Gates;42.249231;-71.839596;28;31
+1260;Mill St at Ball;42.249295;-71.837954;28;31
+1261;Mill St at 103 Mill;42.248829;-71.835769;28;31
+1262;Mill St at Sh Buffum;42.248278;-71.834701;28;31
+1263;Park Ave + Coes St;42.24885;-71.83235;37;41
+1264;Lovell St + Lakeside Ave;42.250241;-71.831848;28;31
+1265;Lovell St + Spaulding St;42.252481;-71.832436;28;31
+1267;Lovell St + Maywood St;42.254175;-71.832548;28;31
+1268;Maywood St + Beaver Brook Pkwy;42.25388;-71.830211;28;31
+1269;Park Ave + Shirley St;42.25351;-71.8271;37;41
+1270;Park Ave + Downing St;42.255465;-71.824799;36;41
+1271;Park Ave + W. Oberlin St;42.25586;-71.82437;36;41
+1272;Park Ave at May;42.2569;-71.823091;27;31
+1273;May St at Dewey;42.256773;-71.822233;27;31
+1274;May St at Mason;42.256416;-71.820683;27;31
+1275;May St at Hollywood;42.256036;-71.819192;27;31
+1276;Woodland St at May St;42.256243;-71.817904;27;31
+1277;Woodland St at Old Fire Station;42.257137;-71.817112;27;31
+1278;Woodland St at King;42.2583;-71.816256;27;31
+1279;Queen St at Jaques;42.258863;-71.81469;27;31
+1280;Queen St at Chandler;42.260468;-71.81353;27;31
+1281;Coes Pond Village;42.252386;-71.849723;11;11
+1282;First St + 7 First St;42.254889;-71.847283;11;11
+1283;Queen St at Chandler;42.260253;-71.81368;28;29
+1284;Queen St at Jaques;42.259219;-71.813632;28;29
+1285;King St at Jaques;42.258871;-71.814675;28;29
+1286;King St at Bluff;42.258705;-71.816335;28;29
+1287;Woodland St at Old Fire Station;42.257003;-71.817445;28;29
+1288;Woodland St at May St;42.256045;-71.818187;28;29
+1289;May St at Hollywood;42.256116;-71.819191;28;29
+1290;May St at Florence;42.256551;-71.820894;28;29
+1291;May St at Park;42.256967;-71.822464;28;29
+1292;Park Ave + Oberlin St;42.25616;-71.8241;37;39
+1294;Park Ave + Downing St;42.25432;-71.82624;37;39
+1295;Park Ave + Maywood St;42.25297;-71.82781;37;39
+1296;Maywood St + Beaver Brook Pkwy;42.253991;-71.830536;24;25
+1297;Maywood St + Lovell St;42.254413;-71.832238;24;25
+1298;Lovell St + Columbus St;42.253578;-71.832774;24;25
+1299;Lovell St + Lakeside Ave;42.250527;-71.832163;23;25
+1301;Coes St at 51 Coes;42.249731;-71.835655;27;29
+1302;Coes St at Buffum;42.249446;-71.837816;27;29
+1303;Mill St at Gates;42.249271;-71.839406;27;29
+1304;Mill St at Plaza Entr;42.250106;-71.841465;27;29
+1305;Mill St at Pond Bath House;42.251456;-71.842578;27;29
+1306;Mill St at Bowling Alley;42.253411;-71.844485;27;29
+1308;Williamsburg Dr at Mill;42.25784;-71.849198;27;29
+1309;Williamsburg Dr at 26- 28 Williamsburg;42.257229;-71.851054;27;29
+1310;Outlook Dr at Rental Office;42.257416;-71.852631;27;29
+1311;Outlook Dr at  57 Outlook;42.257941;-71.851955;27;29
+1361;Maple Ave + Commonwealth Ave;42.28273;-71.732746;11;13
+1362;Maple Ave + Oak St;42.285701;-71.727866;11;13
+1363;Maple Ave + Brightside Ave;42.290938;-71.721461;11;13
+1364;Maple Ave + Main St;42.295953;-71.715945;11;13
+1365;Main St + Grafton St;42.296636;-71.713395;11;13
+1366;Main St + Summer St;42.296446;-71.709549;11;13
+1367;Main St + Francis St;42.296087;-71.706073;11;13
+1368;Main St + South St;42.295525;-71.703553;11;13
+1370;North Main St + Hamilton St;42.195996;-71.76301;22;24
+1371;North Main St + Martin St;42.198139;-71.766743;22;24
+1372;North Main St + Dewey St;42.19881;-71.770606;22;24
+1373;North Main St + Dewey St;42.198663;-71.770615;22;25
+1374;North Main St + Martin St;42.198062;-71.766998;22;25
+1375;North Main St + Hamilton St;42.195655;-71.762903;22;25
+1376;North Main St + Grove St;42.192393;-71.761035;11;13
+1379;Waverly St + Coral St;42.25636;-71.79196;18;21
+1383;Maj Taylor Blvd at Thomas St;42.268153;-71.79851;98;112
+1384;Major Taylor Blvd and Mlk Inbound;42.267328;-71.798352;98;112
+1385;Major Taylor Blvd at Dcu Center;42.266263;-71.798137;98;112
+1386;Major Taylor Blvd at Foster St;42.264228;-71.797898;98;112
+1388;Quinsigmund Upper Campus;42.314932;-71.792828;13;16
+1389;Rt 169 and Optical Drive;42.07606;-72.026763;7;7
+1390;Rt 169 and Crystal St;42.073723;-72.026422;7;7
+1391;Rt 131 and Maple St;42.073335;-72.028638;7;7
+1392;Downtown Southbridge;42.074955;-72.033392;7;7
+1394;Central St Southbridge and Hook St;42.077035;-72.032178;7;7
+1395;Central St and Charlton St;42.078738;-72.030125;7;7
+1396;Central St and Morton St;42.080312;-72.028957;7;7
+1397;Rt 169 and Vinton St in;42.090675;-72.022678;7;7
+1398;Rt 169 Entering Charlton;42.101753;-72.017648;7;7
+1399;Southbridge Rd (Rt 169) and Snake Hill Rd;42.126763;-72.005592;7;7
+1400;Rt 169  and Rt 20 Inbound;42.143715;-71.994657;7;7
+1401;Rt 20 and Carpenter Hill Rd;42.145043;-71.990603;7;7
+1406;Rt 20 and L Stevens Rd Inbound;42.144208;-71.963202;7;7
+1407;Rt 20 and Old Worcester Rd;42.147102;-71.940075;7;7
+1408;Rt 20 and Richardson Corner Rd;42.150208;-71.92507;7;7
+1409;Rt 20 and Bay Path Rd;42.154158;-71.914222;7;7
+1410;Rt 20 Entering Oxford;42.154873;-71.909272;7;7
+1411;Rt 20  and Rt 56 Inbound;42.167137;-71.894593;7;7
+1412;Rt 20 and Turner Rd Inbound;42.168423;-71.885485;7;7
+1414;Mcgrath Blvd and Mrytle St;42.25857;-71.800577;7;7
+1415;Southbridge Rd + Turner Rd Outbound;42.168273;-71.88632;6;7
+1416;Rt 20 and Rt 56 Outbound;42.167279;-71.894646;6;7
+1417;Rt 20 Entering Charlton;42.154858;-71.909605;6;7
+1418;Rt 20 Oxbow Rd Outbound;42.150303;-71.925468;6;7
+1419;Rt 20 and Carroll Hill Rd Outbound;42.147387;-71.941013;6;7
+1420;Rt 20 and Northside Rd;42.144375;-71.963185;6;7
+1425;Rt 20 and Stafford St;42.145218;-71.990477;6;7
+1426;Rt 169 and Rt 20  Outbound;42.14374;-71.99488;6;7
+1427;Rt 169 and Berry Corner Rd Outbound;42.126303;-72.005942;7;7
+1428;Rt 169 Entering Southbridge;42.101635;-72.017783;7;7
+1429;Rt 169 and Vinton St (Out);42.090603;-72.022805;7;7
+1430;Rt 169 and Randolph St;42.08144;-72.027908;7;7
+1431;Rt 169 and Charlton St;42.078818;-72.027335;7;7
+1449;Park Ave + Grove St;42.284121;-71.808216;25;27
+1451;Park Ave + Waconah Rd;42.280477;-71.808592;25;27
+1452;Park Ave + Salisbury St;42.279573;-71.808566;25;27
+1459;Major Taylor Blvd at Dcu Outbound;42.266479;-71.797902;99;114
+1461;Maj Taylor Blvd at Thomas Outbound;42.268085;-71.798281;99;114
+1467;Park Ave + Salisbury St;42.27852;-71.80857;26;28
+1468;Park Ave+ Rumford;42.27916;-71.80841;26;28
+1485;Front Street Outbound;42.26209;-71.7985;14;16
+1488;Front St + Church St;42.262402;-71.79979;125;143
+1503;Hub Center;42.260898;-71.796662;438;1019
+1507;Mrytle St + Salem St;42.259068;-71.801659;8;10
+1508;Franklin St + Church St;42.26111;-71.79987;87;99
+1514;Apricot St at Goddard;42.241633;-71.853543;22;42
+1527;Chandler St + May;42.267323;-71.839473;33;39
+1535;Front St + Church St;42.262759;-71.800287;14;16
+1539;Highland St + Lancaster St;42.27133;-71.80347;18;22
+1545;Pleasant St + Brantwood Rd;42.27871;-71.84499;14;16
+1547;Pleasant St + Brantwood Rd Inbound;42.2788;-71.84562;14;16
+1548;Pleasant St + Piedmont St;42.263951;-71.812788;14;16
+1549;Pleasant St + Main St;42.2635;-71.80275;48;55
+1570;Southwest Commons Eol;42.240275;-71.747265;21;21
+1571;Porter and Chester School;42.317951;-71.800441;13;16
+1572;End of Line Julio Drive;42.291201;-71.70219;11;26
+1574;Coppage Dr Eol;42.261624;-71.870196;16;41
+1575;Great Brook Valley Pool;42.310645;-71.775667;37;86
+1576;East Brookfield Courthouse Cumberland Farms;42.232133;-72.029416;7;14
+1578;Goddard Dr + Coppage Dr;42.25872;-71.8664;16;21
+1583;Summer and Asylum;42.263843;-71.794966;14;16
+1584;Summer and Mlk;42.266038;-71.795384;14;16
+1585;Summer and Mlk in;42.26597;-71.795605;13;15
+1586;Summer and Bridge Street;42.26364;-71.795054;13;15
+1606;Backstone River Rd - Imperial Inbound;42.228756;-71.789233;5;5
+1607;Tobia Boland and Blackstone Inbound;42.228167;-71.786778;15;17
+1609;Tobias Boland + Blackstone River Rd;42.22809;-71.78686;34;38
+1610;Blackston River Road - Imperial Outbound;42.228814;-71.789086;4;4
+1611;Lincoln St Natl Guide  Armory;42.2971;-71.7603;18;21
+1612;Union Station Garage Franklin St;42.26021;-71.79519;91;107
+1613;Tobias Boland + Sam's Club;42.23056;-71.787;34;38
+1632;Park Ave + Grove St;42.28392;-71.80816;26;28
+1633;Waverly St and Coral St Out;42.25648;-71.79158;18;21
+1636;Providence St and Curran Ter;42.24263;-71.79105;18;21
+1637;Providence St and Shine Pool;42.2441;-71.79138;18;21
+1638;Providence St and Ames St;42.2421;-71.79119;19;21
+1639;Providence St and Shine Pool;42.24417;-71.7915;19;21
+1641;Heywood St and Jones St;42.24841;-71.78805;18;21
+1642;Heywood and Houghton St;42.2479;-71.78449;18;21
+1643;Heywood and Samoset Rd;42.24939;-71.78018;18;21
+1644;Heywood St Opp. Samoset Rd.;42.24948;-71.78028;18;21
+1645;Heywood St Opp Houghton St;42.24814;-71.78357;18;21
+1646;Heywood St Opp Jones St;42.24858;-71.78751;19;21
+1647;Heywood and Academy Fields;42.24821;-71.79008;19;21
+1652;Elm and Russel St;42.26618;-71.81568;17;18
+1653;Elm St + Park Ave;42.266288;-71.817711;16;17
+1654;Elm St + Russell St;42.266102;-71.815651;16;17
+1656;Elm St + West St;42.26553;-71.80942;16;17
+1657;48 Elm St;42.265215;-71.806144;16;17
+1658;Park Ave + Highland St;42.27023;-71.81638;26;28
+1659;Park Ave + Russell St;42.272238;-71.814499;26;28
+1660;Park Ave Opp Russel St;42.272274;-71.814619;25;27
+1662;N Main and Canal St Ob Millbury;42.193459;-71.761312;11;12
+1663;Canal St and Howe Ave Ob Millbury;42.193466;-71.759176;11;12
+1665;Elm and N Main St Ib Millbury;42.1915;-71.759518;11;13
+1666;Canal and Elm St Ib Millbury;42.193107;-71.757635;22;24
+1667;Canal St and Howe Ave Ib Millbury;42.193431;-71.759056;11;12
+1668;N Main and Canal St Ib Millbury;42.193596;-71.761189;22;24
+1682;Lakeway Commons Outbound;42.276265;-71.74729;11;13
+1683;Lakeway Commons Inbound;42.27633;-71.747222;12;13
+1685;Worcester State Hospital;42.278389;-71.769194;28;31
+1686;Qcc Traffic Circle;42.314416;-71.79537;26;31
+1687;Rt 20 Entering Auburn;42.17347;-71.878675;7;7
+1691;Main St at Chatham;42.261566;-71.80327;28;29
+1694;Mill St at Second;42.255584;-71.846908;28;31
+1696;Providence St at Astrid;42.240779;-71.791608;28;36
+1699;Blithewood and Grafton;42.236482;-71.752168;18;21
+1700;Blithewood and Oakwood;42.235608;-71.756218;18;21
+1701;Blithewood and Hickory Hill;42.236008;-71.761249;18;21
+1702;Blithewood and Opp Hickory Hill;42.235855;-71.761341;18;21
+1703;Blithewood and Opp Oakwood Lane;42.235496;-71.756385;18;21
+1712;Granite St and Winthrop St;42.24766;-71.79024;19;21
+1713;Granite St and Opp Wabash Ave;42.24749;-71.79003;18;21
+1717;North High School;42.261846;-71.767047;2;3
+1749;Neponset St + Reliant Medical;42.298239;-71.802093;18;20
+1751;Park Ave Opp Townsend St;42.26475;-71.81913;9;10
+1752;Park Ave + Chandler St;42.26123;-71.82089;9;10
+1753;Park Ave + Parker St;42.25886;-71.82214;9;10
+1754;Park Ave + Beaver Brook Pkway;42.25019;-71.83106;13;14
+1755;Park Ave + Mill St;42.24705;-71.83404;9;10
+1756;666 Park Ave;42.24532;-71.83576;9;10
+1757;Park Ave + Townsend St;42.26481;-71.81899;9;10
+1758;Park Ave + Chandler St;42.26123;-71.82076;9;10
+1759;Park Ave + Parker St;42.25904;-71.82192;9;10
+1760;Park Ave + Beaver St;42.24983;-71.83136;9;10
+1761;Park Ave + Mill St;42.24688;-71.83397;9;10
+1762;661 Park Ave (Meinke);42.24508;-71.8359;9;10
+1763;Cambridge + Webster Sq;42.24479;-71.83102;9;10
+1764;Cambridge Street + Price Chopper;42.24406;-71.82898;9;10
+1765;Cambridge St + Exeter;42.24355;-71.82505;9;10
+1766;Cambridge St + Freeland St;42.2437;-71.82459;9;10
+1767;Cambridge St + Salvation Army;42.24401;-71.82838;9;10
+1768;Cambridge St + Nixon Ave;42.24474;-71.83071;9;10
+1769;Blythewood St at Blyethwood Terr;42.236243;-71.764516;18;21
+1770;Broad Meadow Brook;42.232915;-71.764187;18;42
+1771;Big Bunny Plaza;42.082388;-72.047346;7;14
+1772;Main St (Southbridge) + Pine Ob;42.077858;-72.038543;7;7
+1773;Main St (Southbridge) + Hamilton St Ob;42.080614;-72.044029;7;7
+1774;Main St (Southbridge) + Sayles Ib;42.080475;-72.043078;7;7
+1775;Main St (Southbridge) + South St Ib;42.077757;-72.038547;7;7
+1784;Worcester Senior Center;42.24786;-71.79299;37;42
+1785;Vernon St at Spurr;42.247776;-71.794655;28;36
+1797;Sunderland Rd + Danvers St;42.241383;-71.752891;13;15
+1798;Sunderland Rd Opp Atlas St;42.24111;-71.75083;13;15
+1799;Sunderland Rd + Southwest Plaza;42.240861;-71.748824;13;15
+1800;Sunderland Rd + Lake Ave;42.24103;-71.74872;13;15
+1801;Sunderland Rd + Atlas St;42.24119;-71.75054;13;15
+1802;Sunderland Rd Opp Danvers;42.241542;-71.752509;13;15
+1805;Foster St + Norwich St;42.26459;-71.80046;28;29
+1806;Harding St + Endicott St;42.250713;-71.800676;10;12
+1808;Harding St + Lafayette St;42.252888;-71.799516;10;12
+1809;Ashmont Ave + Harding St;42.248387;-71.801706;10;12
+1810;Millbury St + Ashmont Ave;42.24848;-71.80127;11;13
+1812;Millbury St + Endicott St;42.251178;-71.800108;11;13
+1813;Millbury St + Lafayette St;42.25295;-71.79904;11;13
+1818;Pleasant St + Mapleleaf Rd;42.278434;-71.855065;14;16
+1820;Market Basket;42.246594;-71.725581;13;30
+1821;Ymca Shore Dr.;42.303766;-71.811202;9;20
+1826;Pleasant St + Mower St Ib;42.279176;-71.866224;14;16
+1827;Elm St + Opp Ashland St;42.2653;-71.80641;17;18
+1828;Elm St + West St;42.26553;-71.80887;17;18
+1830;Elm St + Chestnut St;42.26515;-71.80449;17;18
+1831;Lincoln St + Oriol Dr;42.29664;-71.76903;16;17
+1832;Elm St Opp Hudson St;42.266436;-71.817559;17;18
+1833;21 Tacoma St Opp Edward Mk Chealth;42.302482;-71.765942;16;17
+1834;Park Ave + Sagamore St;42.282333;-71.808537;26;28
+1835;Tacoma St + Freedonway;42.30668;-71.77343;16;17
+1836;69 Tacoma St;42.30421;-71.76758;16;18
+1837;Park Ave + Sagamore St;42.281907;-71.808676;25;27
+1838;Tacoma St +  Edward Mk Chealth;42.302678;-71.766207;16;18
+1839;Holcombe St + Woodford St;42.24615;-71.79096;18;21
+1840;Granite St + Holcombe St;42.2468;-71.78893;19;21
+1841;24 Holcombe St;42.24641;-71.78923;18;21
+1842;Holcombe St + Wabash Ave;42.24635;-71.78977;19;21
+1843;23 Granite St;42.24707;-71.7893;18;21
+1844;Auburn St + Mcdonalds;42.208443;-71.835481;24;27
+1845;1351 Pleasant St;42.28149;-71.87623;14;16
+1846;Auburn St + Opp Bryn Mawr Ave;42.21369;-71.84243;24;27
+1847;Main St + Hitchcock Rd;42.24618;-71.82958;25;27
+1849;Main St + Grand St;42.25038;-71.82183;25;27
+1850;204 Auburn St;42.21422;-71.84486;25;29
+1851;Southbridge St + Myrtle St;42.2595;-71.80357;8;10
+1852;Auburn St Opp Mcdonald;42.20833;-71.83559;25;29
+1853;Gold Star Blvd + Woodbury St;42.28817;-71.80516;26;28
+1854;Chandler St at Durant;42.265584;-71.836382;19;22
+1855;South Plaza Stop & Shop;42.247021;-71.758556;32;36
+1856;N Main at Grove St;42.191745;-71.76075;11;12
+1857;Park Ave at Coes;42.249171;-71.832247;23;25
+1859;Hamilton St at Dana;42.256297;-71.774307;2;2
+1860;Hamilton St at Dana;42.256486;-71.774347;2;2
+1861;Hamilton St at Puritan;42.256269;-71.77788;2;2
+1862;Pleasant St at Rockwood;42.280568;-71.870861;6;6
+1864;Amazon Distribution Center;42.140518;-72.002493;4;4
+1865;Green St at Gold;42.25725;-71.798065;39;49
