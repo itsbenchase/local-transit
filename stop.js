@@ -5,13 +5,15 @@ const stopLon = [];
 const dayTrips = [];
 const allTrips = [];
 
-const paramName = 'stop';
-const result = parsedUrl.searchParams.get(paramName);
+const result = "nah";
 
 function funct()
 {
   const parsedUrl = new URL(document.URL);
   console.log(parsedUrl);
+
+  const paramName = 'stop';
+  result = parsedUrl.searchParams.get(paramName);
 
   const testAgencyUrl = ("https://www.localtransit.app/wrta.txt"); // provide file location
     fetch(testAgencyUrl)
@@ -37,11 +39,11 @@ function funct()
           allTrips.push(data);
         }
 
-        findStop()
+        findStop(result)
       })
 }
 
-function findStop()
+function findStop(result)
 {
   for (let i = 0; i < stopId.length; i++)
   {
