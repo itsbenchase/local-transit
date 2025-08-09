@@ -39,8 +39,9 @@ function funct()
           dayTrips.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
           allTrips.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          depTimes.push(data.split(","));
+          data = data.substr(data.indexOf(";") + 2);
+          data = data.substr(0, data.length - 1);
+          depTimes.push(data.split(", "));
         }
 
         findStop(result)
@@ -55,14 +56,29 @@ function findStop(result)
     {
       document.getElementById("name").innerHTML += (stopName[i]);
       document.getElementById("location").innerHTML += (stopLat[i] + ", " + stopLon[i]);
-      var dayFreq = Math.round(((14 / dayTrips[i]) * 60) * 100) / 100;
-      document.getElementById("daytime").innerHTML += (dayFreq + " minutes");
-      document.getElementById("24trips").innerHTML += (allTrips[i]);
+      document.getElementById("24trips").innerHTML += (depTimes[i].length);
+
+      var dayFreqTrips = 0;
 
       for (let j = 0; j < depTimes[i].length; j++)
       {
-        document.getElementById("deptimes").innerHTML += (depTimes[i][j] +", ");
+        if (j == (depTimes[i].length - 1))
+        {
+          document.getElementById("deptimes").innerHTML += (depTimes[i][j]);
+        }
+        else
+        {
+          document.getElementById("deptimes").innerHTML += (depTimes[i][j] + ", ");
+        }
+
+        if (parseInt(depTimes[i][j].substr(0, 2)) >= 6 && parseInt(depTimes[i][j].substr(0, 2)) < 20)
+        {
+          dayFreqTrips += 1;
+        }
       }
+
+      var dayFreq = Math.round(((14 / dayFreqTrips) * 60) * 100) / 100;
+      document.getElementById("daytime").innerHTML += (dayFreq + " minutes");
     }
   }
 }
