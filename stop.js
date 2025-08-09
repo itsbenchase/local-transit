@@ -7,7 +7,7 @@ const allTrips = [];
 const depTimes = [];
 const headsigns = [];
 
-var result = "nah";
+var result = "no data";
 
 function funct()
 {
@@ -64,14 +64,7 @@ function findStop(result)
 
       for (let j = 0; j < depTimes[i].length; j++)
       {
-        //if (j == (depTimes[i].length - 1))
-        //{
-          document.getElementById("deptimes").innerHTML += ("<br>" + depTimes[i][j] + ": " + headsigns[i][j]);
-        /*}
-        else
-        {
-          document.getElementById("deptimes").innerHTML += (depTimes[i][j] + ", ");
-        }*/
+        document.getElementById("deptimes").innerHTML += ("<br>" + depTimes[i][j] + ": " + headsigns[i][j]);
 
         if (parseInt(depTimes[i][j].substr(0, 2)) >= 6 && parseInt(depTimes[i][j].substr(0, 2)) < 20)
         {
