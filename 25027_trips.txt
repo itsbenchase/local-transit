@@ -1,0 +1,1020 @@
+trip_id,route,headsign,dep_time
+W1031020;1;ROUTE 146 + WALMART > Hub;14:42
+W1143020;1;ROUTE 146 + WALMART > Hub;10:52
+W1217020;1;ROUTE 146 + WALMART > Hub;13:07
+W1276020;1;ROUTE 146 + WALMART > Hub;18:27
+W1303020;1;ROUTE 146 + WALMART > Hub;11:37
+W1431020;1;ROUTE 146 + WALMART > Hub;06:17
+W378020;1;ROUTE 146 + WALMART > Hub;16:57
+W463020;1;ROUTE 146 + WALMART > Hub;07:02
+W512020;1;ROUTE 146 + WALMART > Hub;07:47
+W547020;1;ROUTE 146 + WALMART > Hub;19:57
+W672020;1;ROUTE 146 + WALMART > Hub;16:12
+W496020;1;ROUTE 146 + WALMART > Hub;20:42
+W837020;1;ROUTE 146 + WALMART > Hub;12:22
+W860020;1;ROUTE 146 + WALMART > Hub;17:42
+W1142020;1;ROUTE 146 + WALMART > Hub;08:37
+W1583020;1;ROUTE 146 + WALMART > Hub;09:22
+W1658020;1;ROUTE 146 + WALMART > Hub;13:52
+W29020;1;ROUTE 146 + WALMART > Hub;19:12
+W637020;1;ROUTE 146 + WALMART > Hub;21:27
+W814020;1;ROUTE 146 + WALMART > Hub;10:07
+W988020;1;ROUTE 146 + WALMART > Hub;15:27
+W564020;1;ROUTE 146 + WALMART;15:02
+W327020;1;ROUTE 146 + WALMART;08:07
+W1732020;1;ROUTE 146 + WALMART;11:57
+W1804020;1;ROUTE 146 + WALMART;18:02
+W613020;1;ROUTE 146 + WALMART;12:42
+W351020;1;ROUTE 146 + WALMART;05:52
+W2020;1;ROUTE 146 + WALMART;18:47
+W977020;1;ROUTE 146 + WALMART;16:32
+W1462020;1;ROUTE 146 + WALMART;10:27
+W911020;1;ROUTE 146 + WALMART;21:02
+W316020;1;ROUTE 146 + WALMART;20:17
+W285020;1;ROUTE 146 + WALMART;17:17
+W686020;1;ROUTE 146 + WALMART;11:12
+W1812020;1;ROUTE 146 + WALMART;07:22
+W213020;1;ROUTE 146 + WALMART;14:12
+W1439020;1;ROUTE 146 + WALMART;06:37
+W1402020;1;ROUTE 146 + WALMART;13:27
+W135020;1;ROUTE 146 + WALMART;08:57
+W1046020;1;ROUTE 146 + WALMART;15:47
+W1097020;1;ROUTE 146 + WALMART;09:42
+W1092020;1;ROUTE 146 + WALMART;19:32
+W1032020;11;Greenwood St at Rt 20 > Hub;11:57
+W1002020;11;Greenwood St at Rt 20 > Hub;16:27
+W1074020;11;Greenwood St at Rt 20 > Hub;13:57
+W1181020;11;Greenwood St at Rt 20 > Hub;21:27
+W1222020;11;Greenwood St at Rt 20 > Hub;19:27
+W1248020;11;Greenwood St at Rt 20 > Hub;19:57
+W1535020;11;Greenwood St at Rt 20 > Hub;12:27
+W1623020;11;Greenwood St at Rt 20 > Hub;06:27
+W1830020;11;Greenwood St at Rt 20 > Hub;10:27
+W1306020;11;Greenwood St at Rt 20 > Hub;07:57
+W1797020;11;Greenwood St at Rt 20 > Hub;12:57
+W1688020;11;Greenwood St at Rt 20 > Hub;15:57
+W1714020;11;Greenwood St at Rt 20 > Hub;14:57
+W368020;11;Greenwood St at Rt 20 > Hub;05:27
+W566020;11;Greenwood St at Rt 20 > Hub;07:27
+W278020;11;Greenwood St at Rt 20 > Hub;06:57
+W265020;11;Greenwood St at Rt 20 > Hub;08:27
+W354020;11;Greenwood St at Rt 20 > Hub;11:27
+W490020;11;Greenwood St at Rt 20 > Hub;15:27
+W918020;11;Greenwood St at Rt 20 > Hub;04:57
+W775020;11;Greenwood St at Rt 20 > Hub;09:27
+W1369020;11;Greenwood St at Rt 20 > Hub;16:57
+W1654020;11;Greenwood St at Rt 20 > Hub;21:57
+W1682020;11;Greenwood St at Rt 20 > Hub;20:57
+W534020;11;Greenwood St at Rt 20 > Hub;05:57
+W710020;11;Greenwood St at Rt 20 > Hub;09:57
+W1586020;11;Greenwood St at Rt 20 > Hub;18:57
+W184020;11;Greenwood St at Rt 20 > Hub;08:57
+W400020;11;Greenwood St at Rt 20 > Hub;20:27
+W429020;11;Greenwood St at Rt 20 > Hub;22:27
+W49020;11;Greenwood St at Rt 20 > Hub;17:27
+W540020;11;Greenwood St at Rt 20 > Hub;14:27
+W622020;11;Greenwood St at Rt 20 > Hub;13:27
+W859020;11;Greenwood St at Rt 20 > Hub;17:57
+W899020;11;Greenwood St at Rt 20 > Hub;10:57
+W937020;11;Greenwood St at Rt 20 > Hub;18:28
+W682020;11;Hub > Greenwood St at Rt 20;11:25
+W428020;11;Hub > Greenwood St at Rt 20;08:25
+W465020;11;Hub > Greenwood St at Rt 20;18:25
+W471020;11;Hub > Greenwood St at Rt 20;08:55
+W262020;11;Hub > Greenwood St at Rt 20;19:25
+W239020;11;Hub > Greenwood St at Rt 20;22:55
+W169020;11;Hub > Greenwood St at Rt 20;20:55
+W1456020;11;Hub > Greenwood St at Rt 20;10:25
+W939020;11;Hub > Greenwood St at Rt 20;05:25
+W756020;11;Hub > Greenwood St at Rt 20;17:55
+W1630020;11;Hub > Greenwood St at Rt 20;05:55
+W1737020;11;Hub > Greenwood St at Rt 20;14:55
+W207020;11;Hub > Greenwood St at Rt 20;10:55
+W214020;11;Hub > Greenwood St at Rt 20;14:25
+W227020;11;Hub > Greenwood St at Rt 20;15:25
+W1803020;11;Hub > Greenwood St at Rt 20;16:25
+W1443020;11;Hub > Greenwood St at Rt 20;21:25
+W979020;11;Hub > Greenwood St at Rt 20;20:25
+W831020;11;Hub > Greenwood St at Rt 20;22:25
+W886020;11;Hub > Greenwood St at Rt 20;12:25
+W878020;11;Hub > Greenwood St at Rt 20;13:25
+W612020;11;Hub > Greenwood St at Rt 20;12:55
+W318020;11;Hub > Greenwood St at Rt 20;09:55
+W505020;11;Hub > Greenwood St at Rt 20;15:55
+W411020;11;Hub > Greenwood St at Rt 20;18:55
+W344020;11;Hub > Greenwood St at Rt 20;07:55
+W1721020;11;Hub > Greenwood St at Rt 20;19:55
+W1725020;11;Hub > Greenwood St at Rt 20;17:25
+W1823020;11;Hub > Greenwood St at Rt 20;09:25
+W1496020;11;Hub > Greenwood St at Rt 20;07:25
+W185020;11;Hub > Greenwood St at Rt 20;21:55
+W194020;11;Hub > Greenwood St at Rt 20;16:55
+W1214020;11;Hub > Greenwood St at Rt 20;11:55
+W1254020;11;Hub > Greenwood St at Rt 20;06:55
+W1295020;11;Hub > Greenwood St at Rt 20;06:25
+W110020;11;Hub > Greenwood St at Rt 20;13:55
+W1299020;12;Hub;08:31
+W1331020;12;Hub;16:40
+W1312020;12;Hub;15:44
+W1294020;12;Hub;14:38
+W63020;12;Hub;12:38
+W1708020;12;Hub;09:34
+W1668020;12;Hub;06:30
+W858020;12;Hub;10:34
+W1526020;12;Hub;11:33
+W1669020;12;Hub;17:41
+W1624020;12;Hub > Market Basket;06:10
+W1833020;12;Hub > Market Basket;07:55
+W218020;12;Hub > Market Basket;14:05
+W1738020;12;Hub > Market Basket;19:55
+W85020;12;Hub > Market Basket;16:10
+W940020;12;Hub > Market Basket;18:05
+W15020;12;Hub > Market Basket;15:15
+W1379020;12;Hub > Market Basket;18:55
+W742020;12;Hub > Market Basket;20:55
+W1746020;12;Hub > Market Basket;09:55
+W337020;12;Hub > Market Basket;11:55
+W597020;12;Hub > Market Basket;17:05
+W237020;12;Hub > Market Basket;08:55
+W1805020;12;Hub > Market Basket;13:00
+W1006020;12;Hub > Market Basket;10:55
+W1371020;12;Hub > North High School;07:00
+W353020;12;Market Basket > Hub;13:26
+W1516020;12;Market Basket > Hub;19:35
+W1599020;12;Market Basket > Hub;20:37
+W1414020;12;Market Basket > Hub;21:38
+W1784020;12;Market Basket > Hub;18:34
+W1244020;12;North High School > Hub;07:18
+W1258020;14;Hub > Pullman St at Pricechopper;18:56
+W1030020;14;Hub > Pullman St at Pricechopper;11:41
+W1028020;14;Hub > Pullman St at Pricechopper;09:41
+W1476020;14;Hub > Pullman St at Pricechopper;14:51
+W1409020;14;Hub > Pullman St at Pricechopper;08:41
+W1413020;14;Hub > Pullman St at Pricechopper;07:41
+W1730020;14;Hub > Pullman St at Pricechopper;12:41
+W1188020;14;Hub > Pullman St at Pricechopper;17:56
+W1321020;14;Hub > Pullman St at Pricechopper;10:41
+W436020;14;Hub > Pullman St at Pricechopper;16:56
+W1811020;14;Hub > Pullman St at Pricechopper;21:56
+W1724020;14;Hub > Pullman St at Pricechopper;13:41
+W708020;14;Hub > Pullman St at Pricechopper;19:56
+W12020;14;Hub > Pullman St at Pricechopper;15:56
+W898020;14;Hub > Pullman St at Pricechopper;20:56
+W76020;14;Hub > Pullman St at Pricechopper;06:41
+W1617020;14;Pullman St at Pricechopper > Hub;09:15
+W440020;14;Pullman St at Pricechopper > Hub;21:31
+W943020;14;Pullman St at Pricechopper > Hub;10:15
+W1486020;14;Pullman St at Pricechopper > Hub;17:31
+W1433020;14;Pullman St at Pricechopper > Hub;11:15
+W1545020;14;Pullman St at Pricechopper > Hub;12:15
+W94020;14;Pullman St at Pricechopper > Hub;13:15
+W172020;14;Pullman St at Pricechopper > Hub;14:17
+W1645020;14;Pullman St at Pricechopper > Hub;08:15
+W260020;14;Pullman St at Pricechopper > Hub;20:31
+W1075020;14;Pullman St at Pricechopper > Hub;15:27
+W1518020;14;Pullman St at Pricechopper > Hub;07:16
+W1057020;14;Pullman St at Pricechopper > Hub;16:31
+W1116020;14;Pullman St at Pricechopper > Hub;18:31
+W1300020;14;Pullman St at Pricechopper > Hub;19:31
+W1167020;15;Hub > Julio Dr;11:35
+W1016020;15;Hub > Julio Dr;10:20
+W1326020;15;Hub > Julio Dr;12:50
+W1336020;15;Hub > Julio Dr;14:05
+W1665020;15;Hub > Julio Dr;17:50
+W1575020;15;Hub > Julio Dr;20:20
+W343020;15;Hub > Julio Dr;07:50
+W1550020;15;Hub > Julio Dr;05:20
+W695020;15;Hub > Julio Dr;19:05
+W410020;15;Hub > Julio Dr;09:05
+W1819020;15;Hub > Julio Dr;15:20
+W854020;15;Hub > Julio Dr;06:35
+W680020;15;Hub > Julio Dr;16:35
+W620020;15;Julio Dr > Hub;11:00
+W1442020;15;Julio Dr > Hub;08:30
+W258020;15;Julio Dr > Hub;12:15
+W1636020;15;Julio Dr > Hub;17:15
+W427020;15;Julio Dr > Hub;06:00
+W281020;15;Julio Dr > Hub;18:30
+W894020;15;Julio Dr > Hub;19:45
+W1534020;15;Julio Dr > Hub;07:15
+W290020;15;Julio Dr > Hub;14:45
+W1568020;15;Julio Dr > Hub;21:00
+W1086020;15;Julio Dr > Hub;16:00
+W1298020;15;Julio Dr > Hub;09:45
+W1267020;15;Julio Dr > Hub;13:30
+W1292020;16;Hub > Target Lincoln Plaza;16:50
+W1063020;16;Hub > Target Lincoln Plaza;10:00
+W1039020;16;Hub > Target Lincoln Plaza;21:20
+W1126020;16;Hub > Target Lincoln Plaza;08:25
+W1372020;16;Hub > Target Lincoln Plaza;10:45
+W1099020;16;Hub > Target Lincoln Plaza;12:15
+W191020;16;Hub > Target Lincoln Plaza;13:45
+W1389020;16;Hub > Target Lincoln Plaza;19:50
+W1184020;16;Hub > Target Lincoln Plaza;20:35
+W103020;16;Hub > Target Lincoln Plaza;19:05
+W589020;16;Hub > Target Lincoln Plaza;07:40
+W462020;16;Hub > Target Lincoln Plaza;09:15
+W872020;16;Hub > Target Lincoln Plaza;06:55
+W422020;16;Hub > Target Lincoln Plaza;13:00
+W563020;16;Hub > Target Lincoln Plaza;15:20
+W367020;16;Hub > Target Lincoln Plaza;18:20
+W26020;16;Hub > Target Lincoln Plaza;11:30
+W1557020;16;Hub > Target Lincoln Plaza;17:35
+W761020;16;Hub > Target Lincoln Plaza;16:05
+W832020;16;Hub > Target Lincoln Plaza;06:10
+W507020;16;Hub > Target Lincoln Plaza;14:30
+W5020;16;Target Lincoln Plaza > Hub;13:37
+W891020;16;Target Lincoln Plaza > Hub;14:22
+W592020;16;Target Lincoln Plaza > Hub;18:57
+W585020;16;Target Lincoln Plaza > Hub;07:32
+W510020;16;Target Lincoln Plaza > Hub;15:12
+W735020;16;Target Lincoln Plaza > Hub;17:27
+W670020;16;Target Lincoln Plaza > Hub;08:17
+W31020;16;Target Lincoln Plaza > Hub;18:12
+W767020;16;Target Lincoln Plaza > Hub;21:12
+W951020;16;Target Lincoln Plaza > Hub;12:07
+W317020;16;Target Lincoln Plaza > Hub;06:47
+W441020;16;Target Lincoln Plaza > Hub;20:27
+W603020;16;Target Lincoln Plaza > Hub;15:57
+W1670020;16;Target Lincoln Plaza > Hub;10:37
+W1758020;16;Target Lincoln Plaza > Hub;09:52
+W1052020;16;Target Lincoln Plaza > Hub;09:07
+W1043020;16;Target Lincoln Plaza > Hub;21:57
+W1218020;16;Target Lincoln Plaza > Hub;19:42
+W1139020;16;Target Lincoln Plaza > Hub;11:22
+W1122020;16;Target Lincoln Plaza > Hub;12:52
+W1213020;16;Target Lincoln Plaza > Hub;16:42
+W1034020;19;Apricot St at Goddard > Hub;11:30
+W1137020;19;Apricot St at Goddard > Hub;10:30
+W1157020;19;Apricot St at Goddard > Hub;16:05
+W1503020;19;Apricot St at Goddard > Hub;09:01
+W1346020;19;Apricot St at Goddard > Hub;10:00
+W1835020;19;Apricot St at Goddard > Hub;09:30
+W1160020;19;Apricot St at Goddard > Hub;11:00
+W1356020;19;Apricot St at Goddard > Hub;18:35
+W1826020;19;Apricot St at Goddard > Hub;13:00
+W1795020;19;Apricot St at Goddard > Hub;19:10
+W47020;19;Apricot St at Goddard > Hub;13:30
+W504020;19;Apricot St at Goddard > Hub;14:35
+W501020;19;Apricot St at Goddard > Hub;20:05
+W1350020;19;Apricot St at Goddard > Hub;18:05
+W649020;19;Apricot St at Goddard > Hub;17:50
+W681020;19;Apricot St at Goddard > Hub;12:00
+W969020;19;Apricot St at Goddard > Hub;12:30
+W711020;19;Apricot St at Goddard > Hub;16:40
+W959020;19;Apricot St at Goddard > Hub;13:59
+W1772020;19;Apricot St at Goddard > Hub;08:30
+W453020;19;Coppage Dr > Hub;07:28
+W173020;19;Coppage Dr > Hub;19:40
+W228020;19;Coppage Dr > Hub;06:30
+W1742020;19;Coppage Dr > Hub;07:58
+W730020;19;Coppage Dr > Hub;05:00
+W701020;19;Coppage Dr > Hub;22:35
+W174020;19;Coppage Dr > Hub;06:00
+W419020;19;Coppage Dr > Hub;05:30
+W846020;19;Coppage Dr > Hub;13:16
+W360020;19;Coppage Dr > Hub;14:21
+W406020;19;Coppage Dr > Hub;10:15
+W377020;19;Coppage Dr > Hub;21:35
+W574020;19;Coppage Dr > Hub;15:50
+W1798020;19;Coppage Dr > Hub;17:25
+W1821020;19;Coppage Dr > Hub;15:35
+W225020;19;Coppage Dr > Hub;12:15
+W1539020;19;Coppage Dr > Hub;07:00
+W1544020;19;Coppage Dr > Hub;09:15
+W1362020;19;Coppage Dr > Hub;15:07
+W1079020;19;Coppage Dr > Hub;11:15
+W1328020;19;Coppage Dr > Hub;20:35
+W143020;19;Hub > Apricot / Goddard;18:05
+W1825020;19;Hub > Apricot / Goddard;08:30
+W1332020;19;Hub > Apricot / Goddard;18:35
+W1017020;19;Hub > Apricot / Goddard;12:30
+W1504020;19;Hub > Apricot / Goddard;12:00
+W1616020;19;Hub > Apricot / Goddard;11:00
+W1820020;19;Hub > Apricot / Goddard;08:00
+W1644020;19;Hub > Apricot / Goddard;13:00
+W576020;19;Hub > Apricot / Goddard;14:05
+W1484020;19;Hub > Apricot / Goddard;17:15
+W503020;19;Hub > Apricot / Goddard;16:05
+W513020;19;Hub > Apricot / Goddard;19:35
+W759020;19;Hub > Apricot / Goddard;09:30
+W398020;19;Hub > Apricot / Goddard;10:00
+W1643020;19;Hub > Apricot / Goddard;09:00
+W1262020;19;Hub > Apricot / Goddard;11:30
+W661020;19;Hub > Apricot / Goddard;13:30
+W883020;19;Hub > Apricot / Goddard;15:30
+W1751020;19;Hub > Apricot / Goddard;17:35
+W491020;19;Hub > Apricot / Goddard;10:30
+W330020;19;Hub > Coppage Dr;15:00
+W171020;19;Hub > Coppage Dr;20:09
+W746020;19;Hub > Coppage Dr;19:05
+W1603020;19;Hub > Coppage Dr;22:10
+W1343020;19;Hub > Coppage Dr;14:32
+W1368020;19;Hub > Coppage Dr;10:45
+W919020;19;Hub > Coppage Dr;08:45
+W519020;19;Hub > Coppage Dr;16:50
+W704020;19;Hub > Coppage Dr;05:30
+W642020;19;Hub > Coppage Dr;11:45
+W601020;19;Hub > Coppage Dr;15:15
+W957020;19;Hub > Coppage Dr;09:45
+W1607020;19;Hub > Coppage Dr;21:10
+W363020;19;Hub > Coppage Dr;07:00
+W1365020;19;Hub > Coppage Dr;12:45
+W1108020;19;Hub > Coppage Dr;16:25
+W1165020;19;Hub > Coppage Dr;06:23
+W1272020;19;Hub > Coppage Dr;13:50
+W1250020;19;Hub > Coppage Dr;07:30
+W1005020;19;Hub > Coppage Dr;06:00
+W1790020;2;Hub > Sunny View Heights + Pleasant St;10:50
+W1285020;2;Hub > Sunny View Heights + Pleasant St;05:50
+W1156020;2;Hub > Sunny View Heights + Pleasant St;19:50
+W1376020;2;Hub > Sunny View Heights + Pleasant St;11:50
+W974020;2;Hub > Sunny View Heights + Pleasant St;07:50
+W516020;2;Hub > Sunny View Heights + Pleasant St;08:50
+W1752020;2;Hub > Sunny View Heights + Pleasant St;20:50
+W1744020;2;Hub > Sunny View Heights + Pleasant St;18:50
+W88020;2;Hub > Sunny View Heights + Pleasant St;06:50
+W643020;2;Hub > Sunny View Heights + Pleasant St;09:50
+W279020;2;Sunny View Heights + Pleasant St > Hub;12:22
+W1747020;2;Sunny View Heights + Pleasant St > Hub;07:22
+W1779020;2;Sunny View Heights + Pleasant St > Hub;11:22
+W600020;2;Sunny View Heights + Pleasant St > Hub;20:22
+W780020;2;Sunny View Heights + Pleasant St > Hub;10:22
+W802020;2;Sunny View Heights + Pleasant St > Hub;06:22
+W1220020;2;Sunny View Heights + Pleasant St > Hub;09:22
+W1500020;2;Sunny View Heights + Pleasant St > Hub;21:22
+W236020;2;Sunny View Heights + Pleasant St > Hub;08:22
+W449020;2;Sunny View Heights + Pleasant St > Hub;19:22
+W81020;2;Worcester Airport > Hub;16:22
+W186020;2;Worcester Airport > Hub;13:22
+W159020;2;Worcester Airport > Hub;14:22
+W1221020;2;Worcester Airport > Hub;18:22
+W1637020;2;Worcester Airport > Hub;17:22
+W1083020;2;Worcester Airport > Hub;15:22
+W1789020;2;Worcester Airport;15:50
+W1361020;2;Worcester Airport;17:50
+W909020;2;Worcester Airport;16:50
+W658020;2;Worcester Airport;13:50
+W1338020;2;Worcester Airport;12:50
+W384020;2;Worcester Airport;14:50
+W1615020;23;Century Dr > Hub;19:08
+W254020;23;Century Dr > Hub;06:30
+W467020;23;Century Dr > Hub;16:45
+W1756020;23;Century Dr > Hub;12:30
+W1558020;23;Century Dr > Hub;10:30
+W234020;23;Century Dr > Hub;07:30
+W1461020;23;Century Dr > Hub;08:30
+W1609020;23;Century Dr > Hub;11:30
+W862020;23;Century Dr > Hub;15:35
+W1390020;23;Century Dr > Hub;09:30
+W1839020;23;Century Dr > Hub;14:30
+W1252020;23;Century Dr > Hub;17:40
+W416020;23;Century Dr > Hub;20:08
+W1015020;23;Century Dr > Hub;13:30
+W1072020;23;Hub > Century Dr;09:00
+W1288020;23;Hub > Century Dr;15:07
+W1734020;23;Hub > Century Dr;13:00
+W1538020;23;Hub > Century Dr;08:00
+W1449020;23;Hub > Century Dr;14:00
+W1309020;23;Hub > Century Dr;06:00
+W826020;23;Hub > Century Dr;10:00
+W97020;23;Hub > Century Dr;07:00
+W779020;23;Hub > Century Dr;12:00
+W967020;23;Hub > Century Dr;17:10
+W995020;23;Hub > Century Dr;16:15
+W644020;23;Hub > Century Dr;18:35
+W71020;23;Hub > Century Dr;19:35
+W577020;23;Hub > Century Dr;11:00
+W1327020;23;Hub > The Fairways;11:30
+W1612020;23;Hub > The Fairways;13:30
+W188020;23;Hub > The Fairways;10:30
+W1279020;23;Hub > The Fairways;18:05
+W1096020;23;Hub > The Fairways;08:30
+W126020;23;Hub > The Fairways;14:31
+W307020;23;Hub > The Fairways;12:30
+W444020;23;Hub > The Fairways;06:30
+W64020;23;Hub > The Fairways;20:05
+W292020;23;Hub > The Fairways;05:30
+W413020;23;Hub > The Fairways;15:50
+W32020;23;Hub > The Fairways;20:35
+W836020;23;Hub > The Fairways;09:30
+W1270020;23;Hub > The Fairways;19:05
+W734020;23;Hub > The Fairways;16:35
+W875020;23;Hub > The Fairways;07:30
+W1071020;23;The Fairways > Hub;10:00
+W1115020;23;The Fairways > Hub;09:00
+W1138020;23;The Fairways > Hub;12:00
+W426020;23;The Fairways > Hub;17:05
+W50020;23;The Fairways > Hub;15:00
+W1604020;23;The Fairways > Hub;07:00
+W1425020;23;The Fairways > Hub;05:55
+W1417020;23;The Fairways > Hub;18:36
+W782020;23;The Fairways > Hub;08:00
+W365020;23;The Fairways > Hub;14:00
+W840020;23;The Fairways > Hub;16:20
+W662020;23;The Fairways > Hub;11:00
+W1722020;23;The Fairways > Hub;19:37
+W884020;23;The Fairways > Hub;13:00
+W771020;24;Hub > SOUTH RD + UMass;12:25
+W972020;24;Hub > SOUTH RD + UMass;08:55
+W1802020;24;Hub > SOUTH RD + UMass;13:25
+W275020;24;Hub > SOUTH RD + UMass;16:28
+W668020;24;Hub > SOUTH RD + UMass;17:28
+W674020;24;Hub > SOUTH RD + UMass;14:58
+W385020;24;Hub > SOUTH RD + UMass;15:28
+W397020;24;Hub > SOUTH RD + UMass;08:25
+W386020;24;Hub > SOUTH RD + UMass;10:55
+W808020;24;Hub > SOUTH RD + UMass;13:57
+W851020;24;Hub > SOUTH RD + UMass;09:55
+W1512020;24;Hub > SOUTH RD + UMass;07:25
+W1345020;24;Hub > SOUTH RD + UMass;07:55
+W1403020;24;Hub > SOUTH RD + UMass;15:58
+W1190020;24;Hub > SOUTH RD + UMass;11:25
+W1627020;24;Hub > SOUTH RD + UMass;11:55
+W59020;24;Hub > SOUTH RD + UMass;06:55
+W1655020;24;Hub > SOUTH RD + UMass;14:29
+W1098020;24;Hub > SOUTH RD + UMass;10:25
+W217020;24;Hub > SOUTH RD + UMass;16:58
+W1489020;24;Hub > SOUTH RD + UMass;12:55
+W1579020;24;Hub > SOUTH RD + UMass;09:25
+W1180020;24;SOUTH RD + UMass > Hub;14:25
+W1111020;24;SOUTH RD + UMass > Hub;18:30
+W1200020;24;SOUTH RD + UMass > Hub;06:55
+W1010020;24;SOUTH RD + UMass > Hub;13:25
+W1766020;24;SOUTH RD + UMass > Hub;07:55
+W177020;24;SOUTH RD + UMass > Hub;12:25
+W195020;24;SOUTH RD + UMass > Hub;15:55
+W1687020;24;SOUTH RD + UMass > Hub;09:25
+W1755020;24;SOUTH RD + UMass > Hub;06:25
+W1173020;24;SOUTH RD + UMass > Hub;15:25
+W1239020;24;SOUTH RD + UMass > Hub;19:00
+W78020;24;SOUTH RD + UMass > Hub;17:30
+W764020;24;SOUTH RD + UMass > Hub;07:25
+W765020;24;SOUTH RD + UMass > Hub;10:25
+W1788020;24;SOUTH RD + UMass > Hub;18:00
+W1633020;24;SOUTH RD + UMass > Hub;10:55
+W1690020;24;SOUTH RD + UMass > Hub;17:00
+W1750020;24;SOUTH RD + UMass > Hub;13:55
+W1507020;24;SOUTH RD + UMass > Hub;16:25
+W1357020;24;SOUTH RD + UMass > Hub;12:55
+W877020;24;SOUTH RD + UMass > Hub;19:30
+W92020;24;SOUTH RD + UMass > Hub;14:56
+W625020;24;SOUTH RD + UMass > Hub;11:25
+W366020;24;SOUTH RD + UMass > Hub;08:28
+W211020;24;SOUTH RD + UMass > Hub;08:55
+W212020;24;SOUTH RD + UMass > Hub;05:55
+W99020;24;SOUTH RD + UMass > Hub;09:55
+W876020;24;SOUTH RD + UMass > Hub;11:55
+W605020;24;SOUTH RD + UMass > Hub;20:00
+W789020;24;SOUTH RD + UMass;06:25
+W631020;24;SOUTH RD + UMass;18:58
+W221020;24;SOUTH RD + UMass;05:25
+W332020;24;SOUTH RD + UMass;20:28
+W562020;24;SOUTH RD + UMass;19:58
+W1782020;24;SOUTH RD + UMass;19:28
+W165020;24;SOUTH RD + UMass;17:58
+W1517020;24;SOUTH RD + UMass;05:55
+W104020;24;SOUTH RD + UMass;18:28
+W113020;26;Great Brook Valley > Hub;05:50
+W1195020;26;Great Brook Valley > Hub;05:20
+W1466020;26;Hub > Great Brook Valley;09:10
+W816020;26;Hub > Great Brook Valley;23:30
+W869020;26;Hub > Great Brook Valley;10:05
+W529020;26;Hub > Great Brook Valley;20:30
+W550020;26;Hub > Great Brook Valley;16:30
+W656020;26;Hub > Great Brook Valley;10:25
+W754020;26;Hub > Great Brook Valley;06:45
+W242020;26;Hub > Great Brook Valley;16:10
+W243020;26;Hub > Great Brook Valley;15:50
+W244020;26;Hub > Great Brook Valley;21:00
+W263020;26;Hub > Great Brook Valley;20:00
+W1831020;26;Hub > Great Brook Valley;09:45
+W1672020;26;Hub > Great Brook Valley;13:45
+W1652020;26;Hub > Great Brook Valley;11:45
+W65020;26;Hub > Great Brook Valley;14:05
+W614020;26;Hub > Great Brook Valley;06:15
+W1580020;26;Hub > Great Brook Valley;21:30
+W1495020;26;Hub > Great Brook Valley;19:00
+W773020;26;Hub > Great Brook Valley;13:25
+W712020;26;Hub > Great Brook Valley;12:05
+W1705020;26;Hub > Great Brook Valley;09:25
+W1401020;26;Hub > Great Brook Valley;11:05
+W1340020;26;Hub > Great Brook Valley;13:05
+W1064020;26;Hub > Great Brook Valley;12:25
+W1147020;26;Hub > Great Brook Valley;17:30
+W1210020;26;Hub > Great Brook Valley;19:30
+W1273020;26;Hub > Great Brook Valley;15:30
+W1026020;26;Hub > Great Brook Valley;05:45
+W1058020;26;Hub > Great Brook Valley;07:45
+W1236020;26;Hub > Great Brook Valley;08:15
+W1296020;26;Hub > Great Brook Valley;10:45
+W1305020;26;Hub > Great Brook Valley;08:45
+W1499020;26;Hub > Great Brook Valley;18:30
+W1102020;26;Hub > Great Brook Valley;14:25
+W1651020;26;Hub > Great Brook Valley;07:15
+W1677020;26;Hub > Great Brook Valley;22:30
+W497020;26;Hub > Great Brook Valley;14:45
+W423020;26;Hub > Great Brook Valley;18:00
+W280020;26;Hub > Great Brook Valley;16:50
+W602020;26;Hub > Great Brook Valley;17:10
+W731020;26;Hub > Great Brook Valley;15:10
+W714020;26;Hub > Great Brook Valley;11:25
+W982020;26;Hub > Great Brook Valley;12:45
+W1047020;26;LINC. ST / HUB;13:15
+W1307020;26;LINC. ST / HUB;09:55
+W1301020;26;LINC. ST / HUB;14:55
+W1159020;26;LINC. ST / HUB;14:15
+W1428020;26;LINC. ST / HUB;12:55
+W1543020;26;LINC. ST / HUB;13:35
+W1120020;26;LINC. ST / HUB;12:35
+W1135020;26;LINC. ST / HUB;20:29
+W215020;26;LINC. ST / HUB;08:15
+W1827020;26;LINC. ST / HUB;22:59
+W369020;26;LINC. ST / HUB;21:59
+W502020;26;LINC. ST / HUB;12:15
+W283020;26;LINC. ST / HUB;14:35
+W257020;26;LINC. ST / HUB;17:29
+W1642020;26;LINC. ST / HUB;15:39
+W1447020;26;LINC. ST / HUB;16:39
+W148020;26;LINC. ST / HUB;15:59
+W1563020;26;LINC. ST / HUB;10:15
+W1287020;26;LINC. ST / HUB;20:59
+W893020;26;LINC. ST / HUB;10:35
+W347020;26;LINC. ST / HUB;06:45
+W1641020;26;LINC. ST / HUB;15:19
+W326020;26;LINC. ST / HUB;09:15
+W677020;26;LINC. ST / HUB;18:59
+W666020;26;LINC. ST / HUB;16:59
+W797020;26;LINC. ST / HUB;19:29
+W783020;26;LINC. ST / HUB;17:59
+W921020;26;LINC. ST / HUB;06:15
+W908020;26;LINC. ST / HUB;21:29
+W1460020;26;LINC. ST / HUB;11:55
+W1407020;26;LINC. ST / HUB;08:45
+W1358020;26;LINC. ST / HUB;13:55
+W571020;26;LINC. ST / HUB;07:45
+W736020;26;LINC. ST / HUB;09:35
+W1686020;26;LINC. ST / HUB;19:59
+W1716020;26;LINC. ST / HUB;07:15
+W28020;26;LINC. ST / HUB;18:29
+W383020;26;LINC. ST / HUB;10:55
+W395020;26;LINC. ST / HUB;11:15
+W407020;26;LINC. ST / HUB;11:35
+W546020;26;LINC. ST / HUB;16:19
+W1740020;27;Auburn Mall > Hub;18:09
+W18020;27;Auburn Mall > Hub;11:37
+W1781020;27;Auburn Mall > Hub;17:39
+W739020;27;Auburn Mall > Hub;16:39
+W1457020;27;Auburn Mall > Hub;17:09
+W61020;27;Auburn Mall > Hub;13:07
+W738020;27;Auburn Mall > Hub;12:37
+W1816020;27;Auburn Mall > Hub;14:39
+W1712020;27;Auburn Mall > Hub;10:37
+W575020;27;Auburn Mall > Hub;05:52
+W646020;27;Auburn Mall > Hub;10:22
+W90020;27;Auburn Mall > Hub;15:39
+W665020;27;Auburn Mall > Hub;06:37
+W1490020;27;Auburn Mall > Hub;16:09
+W1448020;27;Auburn Mall > Hub;08:07
+W1411020;27;Auburn Mall > Hub;19:59
+W1399020;27;Auburn Mall > Hub;14:09
+W232020;27;Auburn Mall > Hub;20:44
+W524020;27;Auburn Mall > Hub;12:07
+W304020;27;Auburn Mall > Hub;07:22
+W1133020;27;Auburn Mall > Hub;19:14
+W1152020;27;Auburn Mall > Hub;11:07
+W1703020;27;Auburn Mall > Hub;08:52
+W1606020;27;Auburn Mall > Hub;13:39
+W1400020;27;Auburn Mall > Hub;18:39
+W1381020;27;Auburn Mall > Hub;15:09
+W1035020;27;Auburn Mall > Hub;09:37
+W1049020;27;Hub > Auburn Mall;12:24
+W1308020;27;Hub > Auburn Mall;17:24
+W1348020;27;Hub > Auburn Mall;10:24
+W1502020;27;Hub > Auburn Mall;16:24
+W1711020;27;Hub > Auburn Mall;05:09
+W1685020;27;Hub > Auburn Mall;05:54
+W35020;27;Hub > Auburn Mall;19:54
+W381020;27;Hub > Auburn Mall;19:24
+W408020;27;Hub > Auburn Mall;07:24
+W431020;27;Hub > Auburn Mall;16:54
+W1840020;27;Hub > Auburn Mall;11:54
+W1533020;27;Hub > Auburn Mall;13:54
+W1632020;27;Hub > Auburn Mall;08:09
+W1341020;27;Hub > Auburn Mall;14:54
+W1342020;27;Hub > Auburn Mall;18:24
+W1233020;27;Hub > Auburn Mall;21:24
+W1570020;27;Hub > Auburn Mall;11:24
+W900020;27;Hub > Auburn Mall;13:24
+W1404020;27;Hub > Auburn Mall;14:24
+W941020;27;Hub > Auburn Mall;10:54
+W23020;27;Hub > Auburn Mall;12:54
+W272020;27;Hub > Auburn Mall;20:39
+W7020;27;Hub > Auburn Mall;17:54
+W1485020;27;Hub > Auburn Mall;18:54
+W806020;27;Hub > Auburn Mall;15:24
+W849020;27;Hub > Auburn Mall;08:54
+W936020;27;Hub > Auburn Mall;15:54
+W1733020;27;Hub > Auburn Mall;06:39
+W1760020;27;Hub > Auburn Mall;09:39
+W804020;29;Big Bunny Plaza > Hub;06:27
+W790020;29;Big Bunny Plaza > Hub;14:27
+W208020;29;Big Bunny Plaza > Hub;18:29
+W1510020;29;Big Bunny Plaza > Hub;08:27
+W1773020;29;Big Bunny Plaza > Hub;10:27
+W965020;29;Big Bunny Plaza > Hub;16:29
+W556020;29;Big Bunny Plaza > Hub;12:27
+W1532020;29;Hub > Big Bunny Plaza;09:25
+W1040020;29;Hub > Big Bunny Plaza;05:25
+W1179020;29;Hub > Big Bunny Plaza;13:25
+W1227020;29;Hub > Big Bunny Plaza;07:25
+W508020;29;Hub > Big Bunny Plaza;17:25
+W684020;29;Hub > Big Bunny Plaza;15:25
+W948020;29;Hub > Big Bunny Plaza;11:25
+W729020;3;Hub > MAY ST + WSU;08:10
+W1470020;3;Hub > MAY ST + WSU;13:30
+W1364020;3;Hub > MAY ST + WSU;18:05
+W857020;3;Hub > MAY ST + WSU;09:00
+W95020;3;Hub > MAY ST + WSU;07:25
+W1344020;3;Hub > MAY ST + WSU;10:30
+W1584020;3;Hub > MAY ST + WSU;17:20
+W1706020;3;Hub > MAY ST + WSU;12:45
+W1664020;3;Hub > MAY ST + WSU;14:15
+W557020;3;Hub > MAY ST + WSU;21:05
+W596020;3;Hub > MAY ST + WSU;05:10
+W1597020;3;Hub > MAY ST + WSU;19:35
+W1191020;3;Hub > MAY ST + WSU;18:50
+W1027020;3;Hub > MAY ST + WSU;06:40
+W1520020;3;Hub > MAY ST + WSU;09:45
+W1441020;3;Hub > MAY ST + WSU;20:20
+W545020;3;Hub > MAY ST + WSU;15:05
+W541020;3;Hub > MAY ST + WSU;16:35
+W1770020;3;Hub > MAY ST + WSU;15:50
+W954020;3;Hub > MAY ST + WSU;11:15
+W717020;3;Hub > MAY ST + WSU;12:00
+W927020;3;Hub > MAY ST + WSU;05:55
+W55020;3;May St + WSU > Hub;13:53
+W198020;3;May St + WSU > Hub;13:08
+W270020;3;May St + WSU > Hub;06:18
+W1429020;3;May St + WSU > Hub;18:28
+W132020;3;May St + WSU > Hub;16:13
+W1605020;3;May St + WSU > Hub;07:03
+W1391020;3;May St + WSU > Hub;05:33
+W1112020;3;May St + WSU > Hub;17:43
+W1419020;3;May St + WSU > Hub;09:23
+W1497020;3;May St + WSU > Hub;11:38
+W392020;3;May St + WSU > Hub;15:28
+W394020;3;May St + WSU > Hub;10:08
+W461020;3;May St + WSU > Hub;19:58
+W323020;3;May St + WSU > Hub;08:38
+W180020;3;May St + WSU > Hub;19:13
+W660020;3;May St + WSU > Hub;10:53
+W813020;3;May St + WSU > Hub;14:43
+W828020;3;May St + WSU > Hub;07:48
+W1487020;3;May St + WSU > Hub;12:23
+W703020;3;May St + WSU > Hub;16:58
+W403020;3;May St + WSU > Hub;20:43
+W331020;3;May St + WSU > Hub;21:28
+W298020;30;Hub > Walmart West Boylston;07:55
+W379020;30;Hub > Walmart West Boylston;10:55
+W72020;30;Hub > Walmart West Boylston;08:35
+W640020;30;Hub > Walmart West Boylston;09:35
+W580020;30;Hub > Walmart West Boylston;21:25
+W598020;30;Hub > Walmart West Boylston;18:55
+W942020;30;Hub > Walmart West Boylston;13:55
+W1196020;30;Hub > Walmart West Boylston;16:26
+W1513020;30;Hub > Walmart West Boylston;10:15
+W1418020;30;Hub > Walmart West Boylston;16:51
+W1355020;30;Hub > Walmart West Boylston;06:55
+W885020;30;Hub > Walmart West Boylston;10:35
+W762020;30;Hub > Walmart West Boylston;14:15
+W654020;30;Hub > Walmart West Boylston;11:15
+W707020;30;Hub > Walmart West Boylston;09:55
+W747020;30;Hub > Walmart West Boylston;14:35
+W276020;30;Hub > Walmart West Boylston;20:25
+W1675020;30;Hub > Walmart West Boylston;12:35
+W1467020;30;Hub > Walmart West Boylston;12:55
+W1424020;30;Hub > Walmart West Boylston;20:55
+W1242020;30;Hub > Walmart West Boylston;06:25
+W1174020;30;Hub > Walmart West Boylston;13:15
+W1124020;30;Hub > Walmart West Boylston;08:15
+W1025020;30;Hub > Walmart West Boylston;09:15
+W1038020;30;Hub > Walmart West Boylston;17:55
+W1004020;30;Hub > Walmart West Boylston;21:55
+W1069020;30;Hub > Walmart West Boylston;14:55
+W1595020;30;Hub > Walmart West Boylston;15:21
+W1540020;30;Hub > Walmart West Boylston;08:55
+W156020;30;Hub > Walmart West Boylston;19:55
+W1422020;30;Hub > Walmart West Boylston;19:25
+W145020;30;Hub > Walmart West Boylston;15:41
+W1082020;30;Hub > Walmart West Boylston;16:01
+W1101020;30;Hub > Walmart West Boylston;17:21
+W268020;30;Hub > Walmart West Boylston;07:25
+W404020;30;Hub > Walmart West Boylston;11:55
+W448020;30;Hub > Walmart West Boylston;05:55
+W1793020;30;Hub > Walmart West Boylston;18:25
+W573020;30;Hub > Walmart West Boylston;12:15
+W962020;30;Hub > Walmart West Boylston;11:35
+W998020;30;Hub > Walmart West Boylston;13:35
+W593020;30;Walmart West Boylston > Hub;08:23
+W479020;30;Walmart West Boylston > Hub;09:03
+W264020;30;Walmart West Boylston > Hub;13:03
+W238020;30;Walmart West Boylston > Hub;20:23
+W219020;30;Walmart West Boylston > Hub;21:23
+W164020;30;Walmart West Boylston > Hub;12:03
+W1698020;30;Walmart West Boylston > Hub;10:43
+W1392020;30;Walmart West Boylston > Hub;09:43
+W1375020;30;Walmart West Boylston > Hub;11:43
+W1463020;30;Walmart West Boylston > Hub;09:23
+W1275020;30;Walmart West Boylston > Hub;06:23
+W1198020;30;Walmart West Boylston > Hub;10:03
+W1219020;30;Walmart West Boylston > Hub;16:13
+W1245020;30;Walmart West Boylston > Hub;17:53
+W1235020;30;Walmart West Boylston > Hub;06:53
+W1022020;30;Walmart West Boylston > Hub;13:23
+W1377020;30;Walmart West Boylston > Hub;16:58
+W142020;30;Walmart West Boylston > Hub;13:43
+W349020;30;Walmart West Boylston > Hub;18:53
+W387020;30;Walmart West Boylston > Hub;15:28
+W459020;30;Walmart West Boylston > Hub;15:08
+W231020;30;Walmart West Boylston > Hub;08:43
+W1710020;30;Walmart West Boylston > Hub;14:23
+W648020;30;Walmart West Boylston > Hub;12:23
+W466020;30;Walmart West Boylston > Hub;14:48
+W362020;30;Walmart West Boylston > Hub;07:23
+W321020;30;Walmart West Boylston > Hub;11:03
+W313020;30;Walmart West Boylston > Hub;10:23
+W300020;30;Walmart West Boylston > Hub;15:53
+W807020;30;Walmart West Boylston > Hub;16:33
+W1611020;30;Walmart West Boylston > Hub;20:53
+W931020;30;Walmart West Boylston > Hub;21:53
+W9020;30;Walmart West Boylston > Hub;17:23
+W850020;30;Walmart West Boylston > Hub;07:53
+W970020;30;Walmart West Boylston > Hub;19:53
+W1370020;30;Walmart West Boylston > Hub;19:23
+W53020;30;Walmart West Boylston > Hub;22:23
+W698020;30;Walmart West Boylston > Hub;14:03
+W659020;30;Walmart West Boylston > Hub;18:23
+W222020;30;Walmart West Boylston > Hub;11:23
+W293020;30;Walmart West Boylston > Hub;12:43
+W961020;31;Hub > Target Lincoln Plaza;08:31
+W794020;31;Hub > Target Lincoln Plaza;11:31
+W737020;31;Hub > Target Lincoln Plaza;06:16
+W1263020;31;Hub > Target Lincoln Plaza;13:46
+W1743020;31;Hub > Target Lincoln Plaza;21:16
+W430020;31;Hub > Target Lincoln Plaza;15:16
+W619020;31;Hub > Target Lincoln Plaza;10:01
+W1691020;31;Hub > Target Lincoln Plaza;19:46
+W1530020;31;Hub > Target Lincoln Plaza;14:31
+W1044020;31;Hub > Target Lincoln Plaza;16:01
+W1077020;31;Hub > Target Lincoln Plaza;07:46
+W1155020;31;Hub > Target Lincoln Plaza;18:16
+W1282020;31;Hub > Target Lincoln Plaza;09:16
+W106020;31;Hub > Target Lincoln Plaza;13:01
+W1683020;31;Hub > Target Lincoln Plaza;12:16
+W542020;31;Hub > Target Lincoln Plaza;07:01
+W509020;31;Hub > Target Lincoln Plaza;16:46
+W856020;31;Hub > Target Lincoln Plaza;10:46
+W543020;31;Target Lincoln Plaza > Hub;20:30
+W476020;31;Target Lincoln Plaza > Hub;08:30
+W1501020;31;Target Lincoln Plaza > Hub;10:45
+W1589020;31;Target Lincoln Plaza > Hub;13:00
+W1384020;31;Target Lincoln Plaza > Hub;07:45
+W1162020;31;Target Lincoln Plaza > Hub;09:15
+W1521020;31;Target Lincoln Plaza > Hub;10:00
+W1553020;31;Target Lincoln Plaza > Hub;16:00
+W1432020;31;Target Lincoln Plaza > Hub;07:00
+W1473020;31;Target Lincoln Plaza > Hub;13:45
+W434020;31;Target Lincoln Plaza > Hub;17:30
+W193020;31;Target Lincoln Plaza > Hub;15:15
+W274020;31;Target Lincoln Plaza > Hub;16:45
+W755020;31;Target Lincoln Plaza > Hub;12:15
+W788020;31;Target Lincoln Plaza > Hub;19:00
+W477020;31;Target Lincoln Plaza > Hub;14:30
+W525020;31;Target Lincoln Plaza > Hub;11:30
+W539020;33;Brookfield Common > Hub;08:14
+W451020;33;Brookfield Common > Hub;18:25
+W621020;33;Brookfield Common > Hub;06:20
+W80020;33;Brookfield Common > Hub;19:25
+W741020;33;East Brookfield Courthouse > Hub;17:15
+W22020;33;East Brookfield Courthouse > Hub;15:15
+W1574020;33;East Brookfield Courthouse > Hub;16:15
+W1060020;33;East Brookfield Courthouse > Hub;09:15
+W202020;33;East Brookfield Courthouse > Hub;11:15
+W823020;33;East Brookfield Courthouse > Hub;13:15
+W676020;33;East Brookfield Courthouse > Hub;14:15
+W1736020;33;Hub > Brookfield Common;18:19
+W743020;33;Hub > Brookfield Common;17:19
+W181020;33;Hub > Brookfield Common;07:14
+W713020;33;Hub > Brookfield Common;05:14
+W1088020;33;Hub > East Brookfield Courthouse;10:14
+W772020;33;Hub > East Brookfield Courthouse;12:14
+W336020;33;Hub > East Brookfield Courthouse;16:14
+W1566020;33;Hub > East Brookfield Courthouse;13:14
+W1515020;33;Hub > East Brookfield Courthouse;14:14
+W1813020;33;Hub > East Brookfield Courthouse;08:14
+W781020;33;Hub > East Brookfield Courthouse;15:14
+W1320020;33;Hub > Spencer DPW;19:19
+W273020;33;Hub > Spencer DPW;06:14
+W1319020;33;Spencer DPW > Hub;07:20
+W1776020;33;Spencer DPW > Hub;20:25
+W526020;4;Hub > Elm and N Main St Millbury;21:35
+W447020;4;Hub > Shoppes at Blackstone Valley;20:20
+W983020;4;Hub > Shoppes at Blackstone Valley;10:20
+W96020;4;Hub > Shoppes at Blackstone Valley;16:35
+W1673020;4;Hub > Shoppes at Blackstone Valley;12:50
+W1660020;4;Hub > Shoppes at Blackstone Valley;17:50
+W1796020;4;Hub > Shoppes at Blackstone Valley;11:35
+W1367020;4;Hub > Shoppes at Blackstone Valley;15:20
+W551020;4;Hub > Shoppes at Blackstone Valley;06:35
+W1608020;4;Hub > Shoppes at Blackstone Valley;14:05
+W864020;4;Hub > Shoppes at Blackstone Valley;19:05
+W1483020;4;Hub > Shoppes at Blackstone Valley;07:50
+W702020;4;Hub > Shoppes at Blackstone Valley;09:05
+W1289020;4;Shoppes at Blackstone Valley > Hub;14:47
+W760020;4;Shoppes at Blackstone Valley > Hub;19:47
+W1594020;4;Shoppes at Blackstone Valley > Hub;17:17
+W325020;4;Shoppes at Blackstone Valley > Hub;18:32
+W584020;4;Shoppes at Blackstone Valley > Hub;16:02
+W1068020;4;Shoppes at Blackstone Valley > Hub;07:17
+W1013020;4;Shoppes at Blackstone Valley > Hub;09:47
+W1297020;4;Shoppes at Blackstone Valley > Hub;13:32
+W100020;4;Shoppes at Blackstone Valley > Hub;11:02
+W154020;4;Shoppes at Blackstone Valley > Hub;12:17
+W1529020;4;Shoppes at Blackstone Valley > Hub;08:32
+W1801020;4;Shoppes at Blackstone Valley > Hub;21:02
+W291020;42;DAVIS ST + MAIN ST > Hub;10:25
+W1713020;42;DAVIS ST + MAIN ST > Hub;07:45
+W727020;42;DAVIS ST + MAIN ST > Hub;16:25
+W994020;42;DAVIS ST + MAIN ST > Hub;08:25
+W1363020;42;DAVIS ST + MAIN ST > Hub;06:00
+W1054020;42;DAVIS ST + MAIN ST > Hub;20:25
+W1577020;42;DAVIS ST + MAIN ST > Hub;18:25
+W1335020;42;DAVIS ST + MAIN ST > Hub;14:25
+W1130020;42;DAVIS ST + MAIN ST > Hub;06:25
+W776020;42;DAVIS ST + MAIN ST > Hub;12:25
+W673020;42;Hub > DAVIS ST + MAIN ST;11:20
+W1397020;42;Hub > DAVIS ST + MAIN ST;07:20
+W189020;42;Hub > DAVIS ST + MAIN ST;13:20
+W651020;42;Hub > DAVIS ST + MAIN ST;06:50
+W748020;42;Hub > DAVIS ST + MAIN ST;19:20
+W141020;42;Hub > DAVIS ST + MAIN ST;09:20
+W1591020;42;Hub > DAVIS ST + MAIN ST;05:20
+W209020;42;Hub > DAVIS ST + MAIN ST;15:20
+W1076020;42;Hub > DAVIS ST + MAIN ST;17:20
+W829020;5;BROAD MEADOW BROOK > Hub;16:06
+W1329020;5;BROAD MEADOW BROOK > Hub;09:01
+W1293020;5;BROAD MEADOW BROOK > Hub;10:31
+W41020;5;BROAD MEADOW BROOK > Hub;13:31
+W484020;5;BROAD MEADOW BROOK > Hub;14:21
+W201020;5;BROAD MEADOW BROOK > Hub;11:16
+W1717020;5;BROAD MEADOW BROOK > Hub;08:11
+W1131020;5;BROAD MEADOW BROOK > Hub;06:41
+W1536020;5;BROAD MEADOW BROOK > Hub;05:11
+W1440020;5;BROAD MEADOW BROOK > Hub;12:46
+W1012020;5;BROAD MEADOW BROOK > Hub;19:51
+W615020;5;BROAD MEADOW BROOK > Hub;12:01
+W521020;5;BROAD MEADOW BROOK > Hub;15:16
+W511020;5;BROAD MEADOW BROOK > Hub;07:26
+W320020;5;BROAD MEADOW BROOK > Hub;20:36
+W266020;5;BROAD MEADOW BROOK > Hub;17:36
+W1353020;5;BROAD MEADOW BROOK > Hub;19:06
+W1588020;5;BROAD MEADOW BROOK > Hub;18:21
+W929020;5;BROAD MEADOW BROOK > Hub;16:51
+W1697020;5;BROAD MEADOW BROOK > Hub;09:46
+W1249020;5;BROAD MEADOW BROOK > Hub;05:56
+W845020;5;Hub > BROAD MEADOW BROOK;09:23
+W901020;5;Hub > BROAD MEADOW BROOK;19:28
+W926020;5;Hub > BROAD MEADOW BROOK;15:38
+W168020;5;Hub > BROAD MEADOW BROOK;11:38
+W216020;5;Hub > BROAD MEADOW BROOK;13:53
+W450020;5;Hub > BROAD MEADOW BROOK;07:48
+W809020;5;Hub > BROAD MEADOW BROOK;17:58
+W960020;5;Hub > BROAD MEADOW BROOK;07:03
+W248020;5;Hub > BROAD MEADOW BROOK;10:53
+W56020;5;Hub > BROAD MEADOW BROOK;12:23
+W728020;5;Hub > BROAD MEADOW BROOK;08:38
+W124020;5;Hub > BROAD MEADOW BROOK;06:18
+W129020;5;Hub > BROAD MEADOW BROOK;20:13
+W1182020;5;Hub > BROAD MEADOW BROOK;13:08
+W1474020;5;Hub > BROAD MEADOW BROOK;14:48
+W1749020;5;Hub > BROAD MEADOW BROOK;05:33
+W1679020;5;Hub > BROAD MEADOW BROOK;10:08
+W1620020;5;Hub > BROAD MEADOW BROOK;18:43
+W1000020;5;Hub > BROAD MEADOW BROOK;16:28
+W638020;5;Hub > BROAD MEADOW BROOK;04:48
+W879020;5;Hub > BROAD MEADOW BROOK;17:13
+W277020;6;Hub > MOWER ST + 31 MOWER ST;09:35
+W1694020;6;Hub > MOWER ST + 31 MOWER ST;21:35
+W944020;6;Hub > MOWER ST + 31 MOWER ST;13:35
+W904020;6;Hub > MOWER ST + 31 MOWER ST;08:35
+W1070020;6;Hub > MOWER ST + 31 MOWER ST;10:35
+W1386020;6;Hub > MOWER ST + 31 MOWER ST;17:35
+W155020;6;Hub > MOWER ST + 31 MOWER ST;05:35
+W197020;6;Hub > MOWER ST + 31 MOWER ST;15:35
+W1318020;6;Hub > MOWER ST + 31 MOWER ST;16:35
+W1062020;6;Hub > MOWER ST + 31 MOWER ST;18:35
+W121020;6;Hub > MOWER ST + 31 MOWER ST;14:35
+W889020;6;Hub > MOWER ST + 31 MOWER ST;07:35
+W17020;6;Hub > MOWER ST + 31 MOWER ST;20:35
+W932020;6;Hub > MOWER ST + 31 MOWER ST;06:35
+W1471020;6;Hub > MOWER ST + 31 MOWER ST;11:35
+W84020;6;Hub > MOWER ST + 31 MOWER ST;12:35
+W855020;6;Hub > MOWER ST + 31 MOWER ST;19:35
+W991020;6;MOWER ST + 31 MOWER ST > Hub;16:12
+W489020;6;MOWER ST + 31 MOWER ST > Hub;22:12
+W1472020;6;MOWER ST + 31 MOWER ST > Hub;14:12
+W641020;6;MOWER ST + 31 MOWER ST > Hub;10:12
+W669020;6;MOWER ST + 31 MOWER ST > Hub;15:12
+W315020;6;MOWER ST + 31 MOWER ST > Hub;18:12
+W391020;6;MOWER ST + 31 MOWER ST > Hub;21:12
+W1084020;6;MOWER ST + 31 MOWER ST > Hub;19:12
+W146020;6;MOWER ST + 31 MOWER ST > Hub;08:12
+W1464020;6;MOWER ST + 31 MOWER ST > Hub;11:12
+W1114020;6;MOWER ST + 31 MOWER ST > Hub;09:12
+W1656020;6;MOWER ST + 31 MOWER ST > Hub;17:12
+W1723020;6;MOWER ST + 31 MOWER ST > Hub;12:12
+W305020;6;MOWER ST + 31 MOWER ST > Hub;20:12
+W294020;6;MOWER ST + 31 MOWER ST > Hub;13:12
+W356020;6;MOWER ST + 31 MOWER ST > Hub;06:12
+W749020;6;MOWER ST + 31 MOWER ST > Hub;07:12
+W456020;7;Hub > Washington Heights;16:45
+W14020;7;Hub > Washington Heights;17:45
+W105020;7;Hub > Washington Heights;12:00
+W133020;7;Hub > Washington Heights;14:35
+W1241020;7;Hub > Washington Heights;06:00
+W1234020;7;Hub > Washington Heights;15:05
+W1266020;7;Hub > Washington Heights;09:00
+W1110020;7;Hub > Washington Heights;16:10
+W167020;7;Hub > Washington Heights;10:30
+W1394020;7;Hub > Washington Heights;11:00
+W579020;7;Hub > Washington Heights;19:45
+W922020;7;Hub > Washington Heights;09:30
+W910020;7;Hub > Washington Heights;12:30
+W572020;7;Hub > Washington Heights;18:45
+W636020;7;Hub > Washington Heights;08:30
+W3020;7;Hub > Washington Heights;14:00
+W247020;7;Hub > Washington Heights;17:15
+W968020;7;Hub > Washington Heights;08:00
+W847020;7;Hub > Washington Heights;06:30
+W1480020;7;Hub > Washington Heights;15:40
+W1817020;7;Hub > Washington Heights;05:30
+W374020;7;Hub > Washington Heights;10:00
+W302020;7;Hub > Washington Heights;11:30
+W906020;7;Hub > Washington Heights;19:15
+W595020;7;Hub > Washington Heights;18:15
+W220020;7;Hub > Washington Heights2;07:00
+W522020;7;Hub > Washington Heights2;13:00
+W867020;7;Hub > Washington Heights2;13:30
+W1727020;7;Hub > Washington Heights2;07:30
+W166020;7;LAKESIDE/C HALL/HUB;05:38
+W200020;7;LAKESIDE/C HALL/HUB;19:53
+W1323020;7;LAKESIDE/C HALL/HUB;13:33
+W1393020;7;LAKESIDE/C HALL/HUB;08:35
+W1596020;7;LAKESIDE/C HALL/HUB;17:20
+W1223020;7;LAKESIDE/C HALL/HUB;18:20
+W1255020;7;LAKESIDE/C HALL/HUB;11:35
+W1125020;7;LAKESIDE/C HALL/HUB;14:03
+W114020;7;LAKESIDE/C HALL/HUB;15:43
+W1787020;7;LAKESIDE/C HALL/HUB;16:48
+W549020;7;LAKESIDE/C HALL/HUB;08:00
+W917020;7;LAKESIDE/C HALL/HUB;13:00
+W1186020;7;LAKESIDE/C HALL/HUB;20:24
+W1168020;7;LAKESIDE/C HALL/HUB;16:13
+W1602020;7;LAKESIDE/C HALL/HUB;10:01
+W1427020;7;LAKESIDE/C HALL/HUB;11:01
+W1410020;7;LAKESIDE/C HALL/HUB;19:23
+W716020;7;LAKESIDE/C HALL/HUB;14:37
+W240020;7;LAKESIDE/C HALL/HUB;06:02
+W402020;7;LAKESIDE/C HALL/HUB;15:07
+W639020;7;LAKESIDE/C HALL/HUB;06:37
+W373020;7;LAKESIDE/C HALL/HUB;17:50
+W452020;7;LAKESIDE/C HALL/HUB;10:35
+W870020;7;LAKESIDE/C HALL/HUB;12:35
+W160020;7;LAKESIDE/C HALL/HUB;12:01
+W1388020;7;LAKESIDE/C HALL/HUB;07:01
+W206020;7;LAKESIDE/C HALL/HUB;09:35
+W190020;7;LAKESIDE/C HALL/HUB;05:09
+W493020;7;LAKESIDE/C HALL/HUB;09:01
+W536020;7;LAKESIDE/C HALL/HUB;07:35
+W914020;7;LAKESIDE/C HALL/HUB;18:52
+W973020;825;Hub > YMCA Shore Dr.;07:40
+W907020;825;Hub > YMCA Shore Dr.;15:25
+W128020;825;Hub > YMCA Shore Dr.;13:40
+W98020;825;Hub > YMCA Shore Dr.;10:40
+W587020;825;Hub > YMCA Shore Dr.;18:40
+W1170020;825;Hub > YMCA Shore Dr.;09:10
+W24020;825;Hub > YMCA Shore Dr.;20:10
+W1601020;825;Hub > YMCA Shore Dr.;12:10
+W1087020;825;Hub > YMCA Shore Dr.;17:10
+W1202020;825;Hub > YMCA Shore Dr.;06:10
+W130020;825;PARK AVE/HUB;08:24
+W1619020;825;PARK AVE/HUB;11:24
+W1073020;825;PARK AVE/HUB;17:57
+W1209020;825;PARK AVE/HUB;16:17
+W1374020;825;PARK AVE/HUB;19:27
+W744020;825;PARK AVE/HUB;14:32
+W282020;825;PARK AVE/HUB;06:54
+W518020;825;PARK AVE/HUB;12:54
+W555020;825;PARK AVE/HUB;09:54
+W33020;825;PARK AVE/HUB;20:57
