@@ -80,52 +80,18 @@ th, td
 
 a:link
 {
-    color: #0097a7;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 a:visited
 {
-    color: #0097a7;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 a:hover
 {
-    color: #037885;
-}
-
-ul 
-{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #bcf5c4;
-}
-  
-li 
-{
-    float: left;
-    font-family: outfit;
-    font-size: 16pt;
-}
-
-.bullet
-{
-    float: none;
-    font-family: outfit;
-    font-size: 16pt;
-    color: #000000;
-}
-  
-li a 
-{
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
+    color: #ffffff;
     text-decoration: none;
-}
-
-.active
-{
-    background-color: #ace8b4;
 }

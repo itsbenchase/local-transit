@@ -39,7 +39,7 @@ function funct()
           tripStart.push(data.substring(0, data.indexOf(";")));
           var dataIds = data.substr(1, data.indexOf("]") - 1);
           tripStopIds.push(dataIds.split(", "));
-          data = data.substr(data.indexOf(";") + 2);
+          data = data.substr(data.indexOf(";") + 1);
           var dataNames = data.substr(1, data.indexOf("]") - 1);
           tripStopNames.push(dataNames.split(", "));
           data = data.substr(data.indexOf(";") + 2);
@@ -62,7 +62,7 @@ function findTrip(result)
 
       for (let j = 0; j < tripStopTimes[i].length; j++)
       {
-        document.getElementById("stops").innerHTML += ("<br>" + tripStopTimes[i][j] + ": " + tripStopNames[i][j]);
+        document.getElementById("stops").innerHTML += ("<br><a href=stop.html?stop=" + fips + tripStopIds[i][j] + ">" + tripStopTimes[i][j] + ": " + tripStopNames[i][j] + "</a>");
       }
     }
   }
