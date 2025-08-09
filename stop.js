@@ -4,6 +4,7 @@ const stopLat = [];
 const stopLon = [];
 const dayTrips = [];
 const allTrips = [];
+const depTimes = [];
 
 var result = "nah";
 
@@ -37,7 +38,9 @@ function funct()
           data = data.substr(data.indexOf(";") + 1);
           dayTrips.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
-          allTrips.push(data);
+          allTrips.push(data.substring(0, data.indexOf(";")));
+          data = data.substr(data.indexOf(";") + 1);
+          depTimes.push(data.split(","));
         }
 
         findStop(result)
@@ -55,6 +58,11 @@ function findStop(result)
       var dayFreq = Math.round(((14 / dayTrips[i]) * 60) * 100) / 100;
       document.getElementById("daytime").innerHTML += (dayFreq + " minutes");
       document.getElementById("24trips").innerHTML += (allTrips[i]);
+
+      for (let j = 0; j < depTimes[i].length; j++)
+      {
+        document.getElementById("deptimes").innerHTML += (depTimes[i][j] +", ");
+      }
     }
   }
 }

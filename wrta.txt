@@ -1,5 +1,5 @@
 stop_id;stop_name;stop_lat;stop_lon;day_trips;24_trips
-4;Grove St at Glennie;42.284398;-71.807561;35;41
+4;Grove St at Glennie;42.284398;-71.807561;35;41;05:15,06:01,07:03
 5;Grove and Sagamore;42.28226;-71.806275;35;41
 18;Providence St + Aetna St;42.25318;-71.79265;18;21
 21;Grafton St + Franklin St;42.25971;-71.79366;67;79
