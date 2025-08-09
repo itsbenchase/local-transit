@@ -36,11 +36,11 @@ function funct()
           stopLat.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
           stopLon.push(data.substring(0, data.indexOf(";")));
+          data = data.substr(data.indexOf(";") + 1);
+          var dataTimes = data.substr(1, data.indexOf("]") - 1);
+          depTimes.push(dataTimes.split(", "));
           data = data.substr(data.indexOf(";") + 2);
-          data = data.substr(0, data.indexOf("]"));
-          depTimes.push(data.split(", "));
-          data = data.substr(data.indexOf(";") + 2);
-          data = data.substr(0, data.indexOf("]"));
+          data = data.substr(0, data.length - 1);
           headsigns.push(data.split(", "));
         }
 
@@ -64,7 +64,7 @@ function findStop(result)
       {
         //if (j == (depTimes[i].length - 1))
         //{
-          document.getElementById("deptimes").innerHTML += (depTimes[i][j] + ": " + headsigns[i][j] + "<br>");
+          document.getElementById("deptimes").innerHTML += ("<br>" + depTimes[i][j] + ": " + headsigns[i][j]);
         /*}
         else
         {
