@@ -28,18 +28,14 @@ function funct()
         for (let i = 0; i < agencyUrlFile.length; i++)
         {
           var data = agencyUrlFile[i];
-          stopId.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopName.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopLat.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopLon.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          dayTrips.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          allTrips.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 2);
+          stopId.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
+          stopName.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
+          stopLat.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
+          stopLon.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 2);
           data = data.substr(0, data.length - 1);
           depTimes.push(data.split(", "));
         }
