@@ -1,7 +1,5 @@
 const stopId = [];
 const stopName = [];
-const stopLat = [];
-const stopLon = [];
 const depTimes = [];
 const headsigns = [];
 const stopTrips = [];
@@ -34,10 +32,6 @@ function funct()
           data = data.substr(data.indexOf(";") + 1);
           stopName.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
-          stopLat.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopLon.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
           var dataTimes = data.substr(1, data.indexOf("]") - 1);
           depTimes.push(dataTimes.split(", "));
           data = data.substr(data.indexOf(";") + 1);
@@ -59,7 +53,6 @@ function findStop(result)
     if (stopId[i] == result)
     {
       document.getElementById("name").innerHTML += (stopName[i]);
-      document.getElementById("location").innerHTML += (stopLat[i] + ", " + stopLon[i]);
       document.getElementById("24trips").innerHTML += (depTimes[i].length);
 
       var dayFreqTrips = 0;
