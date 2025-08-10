@@ -61,6 +61,8 @@ function findStop(result)
 
       var dayFreqTrips = 0;
 
+      console.log(depTimes[i].length + ", " + headsigns[i].length + ", " + stopTrips[i].length + ", " + stopRoutes[i].length);
+
       for (let j = 0; j < depTimes[i].length; j++)
       {
         document.getElementById("deptimes").innerHTML += ("<br><a href=trip.html?trip=" + fips + stopTrips[i][j] + ">" + depTimes[i][j] + ": " + stopRoutes[i][j] + " - " + headsigns[i][j] + "</a>");
