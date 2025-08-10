@@ -3,6 +3,7 @@ const stopName = [];
 const depTimes = [];
 const headsigns = [];
 const stopTrips = [];
+const stopRoutes = [];
 
 var result = "no data";
 
@@ -37,9 +38,12 @@ function funct()
           data = data.substr(data.indexOf(";") + 1);
           var dataHead = data.substr(1, data.indexOf("]") - 1);
           headsigns.push(dataHead.split(", "));
+          data = data.substr(data.indexOf(";") + 1);
+          var dataTrips = data.substr(1, data.indexOf("]") - 1);
+          stopTrips.push(dataTrips.split(", "));
           data = data.substr(data.indexOf(";") + 2);
           data = data.substr(0, data.length - 1);
-          stopTrips.push(data.split(", "));
+          stopRoutes.push(data.split(", "));
         }
 
         findStop(result)
@@ -59,7 +63,7 @@ function findStop(result)
 
       for (let j = 0; j < depTimes[i].length; j++)
       {
-        document.getElementById("deptimes").innerHTML += ("<br><a href=trip.html?trip=" + fips + stopTrips[i][j] + ">" + depTimes[i][j] + ": " + headsigns[i][j] + "</a>");
+        document.getElementById("deptimes").innerHTML += ("<br><a href=trip.html?trip=" + fips + stopTrips[i][j] + ">" + depTimes[i][j] + ": " + stopRoutes[i][j] + " - " + headsigns[i][j] + "</a>");
 
         if (parseInt(depTimes[i][j].substr(0, 2)) >= 6 && parseInt(depTimes[i][j].substr(0, 2)) < 20)
         {
