@@ -40,8 +40,8 @@
         <script src="data/StateBusStops_1.js"></script>
         <script>
         var map = L.map('map', {
-            zoomControl:false, maxZoom:28, minZoom:10
-        }).fitBounds([[40.88094164356111,-73.15397668448676],[42.2107846703044,-71.11475706260143]]);
+            zoomControl:false, maxZoom:17, minZoom:10
+        }).fitBounds([[41.82898850184514,-72.61844792868038],[42.778884036182546,-70.97812701777197]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -87,7 +87,7 @@
             opacity: 1.0,
             attribution: '',
             minZoom: 10,
-            maxZoom: 28,
+            maxZoom: 17,
             minNativeZoom: 0,
             maxNativeZoom: 19
         });
