@@ -41,7 +41,7 @@
         <script>
         var map = L.map('map', {
             zoomControl:false, maxZoom:28, minZoom:10
-        }).fitBounds([[42.06592040300051,-72.05550178499651],[42.38563738108667,-71.3216314707339]]);
+        }).fitBounds([[40.767612188425176,-73.81791117747008],[43.43144418041119,-69.69690047179205]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -96,24 +96,22 @@
         function pop_StateBusStops_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <th scope="row">stop_id</th>\
-                        <td class="visible-with-data" id="stop_id">' + (feature.properties['stop_id'] !== null ? autolinker.link(String(feature.properties['stop_id']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['STOP_ID'] !== null ? autolinker.link(String(feature.properties['STOP_ID']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">stop_lat</th>\
-                        <td class="visible-with-data" id="stop_lat">' + (feature.properties['stop_lat'] !== null ? autolinker.link(String(feature.properties['stop_lat']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['STOP_NAME'] !== null ? autolinker.link(String(feature.properties['STOP_NAME']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">stop_lon</th>\
-                        <td class="visible-with-data" id="stop_lon">' + (feature.properties['stop_lon'] !== null ? autolinker.link(String(feature.properties['stop_lon']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['STOP_LAT'] !== null ? autolinker.link(String(feature.properties['STOP_LAT']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">F14_times</th>\
-                        <td class="visible-with-data" id="F14_times">' + (feature.properties['F14_times'] !== null ? autolinker.link(String(feature.properties['F14_times']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['STOP_LON'] !== null ? autolinker.link(String(feature.properties['STOP_LON']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">Agency</th>\
-                        <td class="visible-with-data" id="Agency">' + (feature.properties['Agency'] !== null ? autolinker.link(String(feature.properties['Agency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2">' + (feature.properties['F14_TIMES'] !== null ? autolinker.link(String(feature.properties['F14_TIMES']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['AGENCY'] !== null ? autolinker.link(String(feature.properties['AGENCY']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
@@ -124,7 +122,7 @@
         }
 
         function style_StateBusStops_1_0(feature) {
-            if (feature.properties['F14_times'] >= 0.000000 && feature.properties['F14_times'] <= 13.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 0.000000 && feature.properties['F14_TIMES'] <= 13.000000 ) {
                 return {
                 pane: 'pane_StateBusStops_1',
                 radius: 4.0,
@@ -140,7 +138,7 @@
                 interactive: false,
             }
             }
-            if (feature.properties['F14_times'] >= 13.000000 && feature.properties['F14_times'] <= 27.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 13.000000 && feature.properties['F14_TIMES'] <= 27.000000 ) {
                 return {
                 pane: 'pane_StateBusStops_1',
                 radius: 4.0,
@@ -156,7 +154,7 @@
                 interactive: false,
             }
             }
-            if (feature.properties['F14_times'] >= 27.000000 && feature.properties['F14_times'] <= 55.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 27.000000 && feature.properties['F14_TIMES'] <= 55.000000 ) {
                 return {
                 pane: 'pane_StateBusStops_1',
                 radius: 4.0,
@@ -172,7 +170,7 @@
                 interactive: false,
             }
             }
-            if (feature.properties['F14_times'] >= 55.000000 && feature.properties['F14_times'] <= 1097.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 55.000000 && feature.properties['F14_TIMES'] <= 1097.000000 ) {
                 return {
                 pane: 'pane_StateBusStops_1',
                 radius: 4.0,
