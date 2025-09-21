@@ -41,7 +41,7 @@
         <script>
         var map = L.map('map', {
             zoomControl:false, maxZoom:17, minZoom:10
-        }).fitBounds([[42.02386250887037,-72.98155900186055],[42.49914110988926,-72.1613985464067]]);
+        }).fitBounds([[42.01861881037656,-73.02171238257016],[42.49393678743982,-72.20155192711633]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -99,7 +99,8 @@
                         <td colspan="2">' + (feature.properties['STOP_ID'] !== null ? autolinker.link(String(feature.properties['STOP_ID']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['STOP_NAME'] !== null ? autolinker.link(String(feature.properties['STOP_NAME']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">Name</th>\
+                        <td class="visible-with-data" id="STOP_NAME">' + (feature.properties['STOP_NAME'] !== null ? autolinker.link(String(feature.properties['STOP_NAME']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <td colspan="2">' + (feature.properties['STOP_LAT'] !== null ? autolinker.link(String(feature.properties['STOP_LAT']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
@@ -108,10 +109,12 @@
                         <td colspan="2">' + (feature.properties['STOP_LON'] !== null ? autolinker.link(String(feature.properties['STOP_LON']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['F14_TIMES'] !== null ? autolinker.link(String(feature.properties['F14_TIMES']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">Day Trips</th>\
+                        <td class="visible-with-data" id="F14_TIMES">' + (feature.properties['F14_TIMES'] !== null ? autolinker.link(String(feature.properties['F14_TIMES']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['AGENCY'] !== null ? autolinker.link(String(feature.properties['AGENCY']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">Agency</th>\
+                        <td class="visible-with-data" id="AGENCY">' + (feature.properties['AGENCY'] !== null ? autolinker.link(String(feature.properties['AGENCY']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
@@ -135,7 +138,7 @@
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(255,7,37,1.0)',
-                interactive: false,
+                interactive: true,
             }
             }
             if (feature.properties['F14_TIMES'] >= 13.000000 && feature.properties['F14_TIMES'] <= 27.000000 ) {
@@ -151,7 +154,7 @@
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(252,255,0,1.0)',
-                interactive: false,
+                interactive: true,
             }
             }
             if (feature.properties['F14_TIMES'] >= 27.000000 && feature.properties['F14_TIMES'] <= 55.000000 ) {
@@ -167,10 +170,10 @@
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(86,255,52,1.0)',
-                interactive: false,
+                interactive: true,
             }
             }
-            if (feature.properties['F14_TIMES'] >= 55.000000 && feature.properties['F14_TIMES'] <= 1097.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 55.000000 && feature.properties['F14_TIMES'] <= 9999.000000 ) {
                 return {
                 pane: 'pane_BusStops_1',
                 radius: 4.0,
@@ -183,7 +186,7 @@
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(0,255,247,1.0)',
-                interactive: false,
+                interactive: true,
             }
             }
         }
@@ -192,7 +195,7 @@
         map.getPane('pane_BusStops_1').style['mix-blend-mode'] = 'normal';
         var layer_BusStops_1 = new L.geoJson(json_BusStops_1, {
             attribution: '',
-            interactive: false,
+            interactive: true,
             dataVar: 'json_BusStops_1',
             layerName: 'layer_BusStops_1',
             pane: 'pane_BusStops_1',
