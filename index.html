@@ -41,7 +41,7 @@
         <script>
         var map = L.map('map', {
             zoomControl:false, maxZoom:17, minZoom:10
-        }).fitBounds([[41.96735633648309,-73.21217364089084],[42.66828099110626,-72.0015362505628]]);
+        }).fitBounds([[42.04397703047404,-72.93029410347907],[42.429263094209276,-72.2656924402043]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -116,7 +116,23 @@
         }
 
         function style_BusStops_1_0(feature) {
-            if (feature.properties['F14_TIMES'] >= 0.000000 && feature.properties['F14_TIMES'] <= 13.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 0.000000 && feature.properties['F14_TIMES'] <= 6.500000 ) {
+                return {
+                pane: 'pane_BusStops_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(141,103,38,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['F14_TIMES'] >= 6.500000 && feature.properties['F14_TIMES'] <= 13.500000 ) {
                 return {
                 pane: 'pane_BusStops_1',
                 radius: 4.0,
@@ -132,7 +148,7 @@
                 interactive: true,
             }
             }
-            if (feature.properties['F14_TIMES'] >= 13.000000 && feature.properties['F14_TIMES'] <= 27.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 13.500000 && feature.properties['F14_TIMES'] <= 27.500000 ) {
                 return {
                 pane: 'pane_BusStops_1',
                 radius: 4.0,
@@ -148,7 +164,7 @@
                 interactive: true,
             }
             }
-            if (feature.properties['F14_TIMES'] >= 27.000000 && feature.properties['F14_TIMES'] <= 55.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 27.500000 && feature.properties['F14_TIMES'] <= 55.500000 ) {
                 return {
                 pane: 'pane_BusStops_1',
                 radius: 4.0,
@@ -164,7 +180,7 @@
                 interactive: true,
             }
             }
-            if (feature.properties['F14_TIMES'] >= 55.000000 && feature.properties['F14_TIMES'] <= 9999.000000 ) {
+            if (feature.properties['F14_TIMES'] >= 55.500000 && feature.properties['F14_TIMES'] <= 127.500000 ) {
                 return {
                 pane: 'pane_BusStops_1',
                 radius: 4.0,
@@ -177,6 +193,22 @@
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(0,255,247,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['F14_TIMES'] >= 127.500000 && feature.properties['F14_TIMES'] <= 9999.000000 ) {
+                return {
+                pane: 'pane_BusStops_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(174,0,195,1.0)',
                 interactive: true,
             }
             }
@@ -255,7 +287,7 @@
             }
         });
         var overlaysTree = [
-            {label: 'Bus Stops<br /><table><tr><td style="text-align: center;"><img src="legend/BusStops_1_Sparse60min0.png" /></td><td>Sparse (> 60 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Infrequent3060min1.png" /></td><td>Infrequent (30 - 60 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Usable1530min2.png" /></td><td>Usable (15 - 30 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Frequent15min3.png" /></td><td>Frequent (< 15 min.)</td></tr></table>', layer: layer_BusStops_1},
+            {label: 'Bus Stops<br /><table><tr><td style="text-align: center;"><img src="legend/BusStops_1_Rare120min0.png" /></td><td>Rare (> 120 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Sparse60120min1.png" /></td><td>Sparse (60 - 120 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Infrequent3060min2.png" /></td><td>Infrequent (30 - 60 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Usable1530min3.png" /></td><td>Usable (15 - 30 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Frequent7515min4.png" /></td><td>Frequent (7.5 - 15 min.)</td></tr><tr><td style="text-align: center;"><img src="legend/BusStops_1_Constant75min5.png" /></td><td>Constant (< 7.5 min.)</td></tr></table>', layer: layer_BusStops_1},
             {label: "OpenStreetMap", layer: layer_OpenStreetMap_0},]
         var lay = L.control.layers.tree(null, overlaysTree,{
             //namedToggle: true,
