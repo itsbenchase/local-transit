@@ -1,3 +1,7 @@
+@font-face {
+    font-family: sourcesans;
+    src: url("https://dev.eliotindex.org/font.ttf");
+}
 
         #map {
             background-color: #ffffff
@@ -14,7 +18,7 @@
 		}
         .info {
             padding: 6px 8px;
-            font: 14px/16px Arial, Helvetica, sans-serif;
+            font-family: souresans;
             background-color:#f8f8f8 !important;
             color: #444444 !important;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
@@ -74,7 +78,7 @@
             color: #444444 !important;
         }
         .abstract {
-            font: bold 18px 'Lucida Console', Monaco, monospace;
+            font-family: sourcesans;
             text-indent: 1px;
             background-color: #f8f8f8 !important;
             width: 30px !important;
@@ -85,7 +89,7 @@
         }
         .abstractUncollapsed {
             padding: 6px 8px;
-            font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+            font-family: sourcesans;
             background-color:#f8f8f8 !important;
             color: #444444 !important;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);

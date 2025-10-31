@@ -1,3 +1,8 @@
+@font-face {
+    font-family: sourcesans;
+    src: url("https://dev.eliotindex.org/font.ttf");
+}
+
 .leaflet-control-layers-toggle.leaflet-layerstree-named-toggle {
     margin: 2px 5px;
     width: auto;
@@ -6,7 +11,8 @@
 }
 
 .leaflet-control-layers-list{
-	font: 13px / 1.7 "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: sourcesans;
+    font-size: 14px;
 }
 
 .leaflet-layerstree-node {
